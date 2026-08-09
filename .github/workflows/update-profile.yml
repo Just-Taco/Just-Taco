@@ -1,0 +1,50 @@
+name: Update profile
+
+on:
+  schedule:
+    - cron: "17 4 * * *"   # daily, so Uptime and the stats stay current
+  push:
+    branches: [main]
+    paths:
+      - "generate_neofetch.py"
+      - "fetch_stats.py"
+      - ".github/workflows/update-profile.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-profile
+  cancel-in-progress: true
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch GitHub stats
+        env:
+          GH_USER: Just-Taco
+          # Optional: a classic PAT with public_repo + read:user gives a full
+          # commit count. Without it we fall back to the built-in token.
+          GH_PAT: ${{ secrets.GH_PAT }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python fetch_stats.py
+
+      - name: Render SVGs
+        run: python generate_neofetch.py
+
+      - name: Commit if anything changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets
+          git diff --staged --quiet && echo "nothing to update" && exit 0
+          git commit -m "chore: refresh profile stats"
+          git push

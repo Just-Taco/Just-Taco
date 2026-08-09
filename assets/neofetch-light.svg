@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1111" height="637" viewBox="0 0 1111 637" font-family="'JetBrains Mono','Fira Code','Cascadia Mono','DejaVu Sans Mono',Menlo,Consolas,monospace" font-size="14" xml:space="preserve" role="img" aria-label="About just@taco">
+<rect x="0.5" y="0.5" width="1110" height="636" rx="10" fill="#ffffff" stroke="#d0d7de"/>
+<circle cx="26" cy="24" r="6" fill="#cf222e"/>
+<circle cx="46" cy="24" r="6" fill="#bf8700"/>
+<circle cx="66" cy="24" r="6" fill="#1a7f37"/>
+<text x="556" y="29" fill="#57606a" font-size="12" text-anchor="middle">just@taco — neofetch</text>
+<line x1="0" y1="42" x2="1111" y2="42" stroke="#d0d7de"/>
+<text x="22.0" y="74.0" fill="#8c8c8c" textLength="84.0" lengthAdjust="spacing">         `</text>
+<text x="106.0" y="74.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">1</text>
+<text x="114.4" y="74.0" fill="#9c8888" textLength="8.4" lengthAdjust="spacing">|</text>
+<text x="122.8" y="74.0" fill="#b38659" textLength="25.2" lengthAdjust="spacing">()(</text>
+<text x="148.0" y="74.0" fill="#c07860" textLength="8.4" lengthAdjust="spacing">|</text>
+<text x="156.4" y="74.0" fill="#b1846e" textLength="8.4" lengthAdjust="spacing">[</text>
+<text x="164.8" y="74.0" fill="#a88676" textLength="8.4" lengthAdjust="spacing">_</text>
+<text x="173.2" y="74.0" fill="#998a7b" textLength="100.8" lengthAdjust="spacing">","""""""""I</text>
+<text x="274.0" y="74.0" fill="#a18879" textLength="8.4" lengthAdjust="spacing">^</text>
+<text x="282.4" y="74.0" fill="#998a7b" textLength="33.6" lengthAdjust="spacing">"""^</text>
+<text x="316.0" y="74.0" fill="#8d8d7f" textLength="8.4" lengthAdjust="spacing">;</text>
+<text x="324.4" y="74.0" fill="#938a8a" textLength="8.4" lengthAdjust="spacing">;</text>
+<text x="332.8" y="74.0" fill="#8c8c8c" textLength="109.2" lengthAdjust="spacing">.            </text>
+<text x="22.0" y="93.0" fill="#8c8c8c" textLength="75.6" lengthAdjust="spacing">        ^</text>
+<text x="97.6" y="93.0" fill="#8d8d7f" textLength="8.4" lengthAdjust="spacing">/</text>
+<text x="106.0" y="93.0" fill="#b1846e" textLength="8.4" lengthAdjust="spacing">{</text>
+<text x="114.4" y="93.0" fill="#c07860" textLength="16.8" lengthAdjust="spacing">\|</text>
+<text x="131.2" y="93.0" fill="#a87860" textLength="8.4" lengthAdjust="spacing">/</text>
+<text x="139.6" y="93.0" fill="#a87848" textLength="8.4" lengthAdjust="spacing">t</text>
+<text x="148.0" y="93.0" fill="#9f8b63" textLength="8.4" lengthAdjust="spacing">?</text>
+<text x="156.4" y="93.0" fill="#9b8b6c" textLength="8.4" lengthAdjust="spacing">~</text>
+<text x="164.8" y="93.0" fill="#998a7b" textLength="75.6" lengthAdjust="spacing">""""""""l</text>
+<text x="240.4" y="93.0" fill="#9b8b6c" textLength="8.4" lengthAdjust="spacing">]</text>
+<text x="248.8" y="93.0" fill="#a18879" textLength="8.4" lengthAdjust="spacing">;</text>
+<text x="257.2" y="93.0" fill="#998a7b" textLength="25.2" lengthAdjust="spacing">"i!</text>
+<text x="282.4" y="93.0" fill="#a18879" textLength="33.6" lengthAdjust="spacing">^^^^</text>
+<text x="316.0" y="93.0" fill="#998a7b" textLength="16.8" lengthAdjust="spacing">"^</text>
+<text x="332.8" y="93.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">I</text>
+<text x="341.2" y="93.0" fill="#8c8c8c" textLength="100.8" lengthAdjust="spacing">'           </text>
+<text x="89.2" y="112.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">(</text>
+<text x="97.6" y="112.0" fill="#b1846e" textLength="8.4" lengthAdjust="spacing">{</text>
+<text x="106.0" y="112.0" fill="#b38659" textLength="16.8" lengthAdjust="spacing">((</text>
+<text x="122.8" y="112.0" fill="#a87860" textLength="16.8" lengthAdjust="spacing">||</text>
+<text x="139.6" y="112.0" fill="#ac8672" textLength="8.4" lengthAdjust="spacing">?</text>
+<text x="148.0" y="112.0" fill="#a18879" textLength="8.4" lengthAdjust="spacing">&gt;</text>
+<text x="156.4" y="112.0" fill="#998a7b" textLength="25.2" lengthAdjust="spacing">I,l</text>
+<text x="181.6" y="112.0" fill="#a88676" textLength="8.4" lengthAdjust="spacing">-</text>
+<text x="190.0" y="112.0" fill="#998a7b" textLength="33.6" lengthAdjust="spacing">""""</text>
+<text x="223.6" y="112.0" fill="#a18879" textLength="8.4" lengthAdjust="spacing">"</text>
+<text x="232.0" y="112.0" fill="#998a7b" textLength="33.6" lengthAdjust="spacing">&gt;t1!</text>
+<text x="265.6" y="112.0" fill="#a18879" textLength="8.4" lengthAdjust="spacing">^</text>
+<text x="274.0" y="112.0" fill="#998a7b" textLength="25.2" lengthAdjust="spacing">&gt;&lt;i</text>
+<text x="299.2" y="112.0" fill="#a18879" textLength="33.6" lengthAdjust="spacing">^^^"</text>
+<text x="332.8" y="112.0" fill="#998a7b" textLength="8.4" lengthAdjust="spacing">"</text>
+<text x="341.2" y="112.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">I</text>
+<text x="349.6" y="112.0" fill="#8c8c8c" textLength="92.4" lengthAdjust="spacing">.          </text>
+<text x="22.0" y="131.0" fill="#8c8c8c" textLength="67.2" lengthAdjust="spacing">       +</text>
+<text x="89.2" y="131.0" fill="#9d8976" textLength="8.4" lengthAdjust="spacing">{</text>
+<text x="97.6" y="131.0" fill="#b38659" textLength="16.8" lengthAdjust="spacing">11</text>
+<text x="114.4" y="131.0" fill="#a87860" textLength="8.4" lengthAdjust="spacing">|</text>
+<text x="122.8" y="131.0" fill="#b38659" textLength="8.4" lengthAdjust="spacing">)</text>
+<text x="131.2" y="131.0" fill="#ad8760" textLength="8.4" lengthAdjust="spacing">-</text>
+<text x="139.6" y="131.0" fill="#a18879" textLength="8.4" lengthAdjust="spacing">?</text>
+<text x="148.0" y="131.0" fill="#998a7b" textLength="8.4" lengthAdjust="spacing">)</text>
+<text x="156.4" y="131.0" fill="#a88676" textLength="8.4" lengthAdjust="spacing">|</text>
+<text x="164.8" y="131.0" fill="#998a7b" textLength="16.8" lengthAdjust="spacing">~]</text>
+<text x="181.6" y="131.0" fill="#9b8b6c" textLength="8.4" lengthAdjust="spacing">}</text>
+<text x="190.0" y="131.0" fill="#998a7b" textLength="33.6" lengthAdjust="spacing">~,""</text>
+<text x="223.6" y="131.0" fill="#a18879" textLength="8.4" lengthAdjust="spacing">^</text>
+<text x="232.0" y="131.0" fill="#998a7b" textLength="8.4" lengthAdjust="spacing">-</text>
+<text x="240.4" y="131.0" fill="#8d8d7f" textLength="8.4" lengthAdjust="spacing">~</text>
+<text x="248.8" y="131.0" fill="#988989" textLength="8.4" lengthAdjust="spacing">}</text>
+<text x="257.2" y="131.0" fill="#a88676" textLength="8.4" lengthAdjust="spacing">\</text>
+<text x="265.6" y="131.0" fill="#a18879" textLength="16.8" lengthAdjust="spacing">I^</text>
+<text x="282.4" y="131.0" fill="#998a7b" textLength="67.2" lengthAdjust="spacing">+-&lt;;l^^^</text>
+<text x="349.6" y="131.0" fill="#938a8a" textLength="8.4" lengthAdjust="spacing">:</text>
+<text x="80.8" y="150.0" fill="#988989" textLength="8.4" lengthAdjust="spacing">f</text>
+<text x="89.2" y="150.0" fill="#a87860" textLength="8.4" lengthAdjust="spacing">|</text>
+<text x="97.6" y="150.0" fill="#b38659" textLength="8.4" lengthAdjust="spacing">)</text>
+<text x="106.0" y="150.0" fill="#a87848" textLength="8.4" lengthAdjust="spacing">f</text>
+<text x="114.4" y="150.0" fill="#b38659" textLength="16.8" lengthAdjust="spacing">(1</text>
+<text x="131.2" y="150.0" fill="#a88676" textLength="16.8" lengthAdjust="spacing">|{</text>
+<text x="148.0" y="150.0" fill="#ac8672" textLength="8.4" lengthAdjust="spacing">f</text>
+<text x="156.4" y="150.0" fill="#998a7b" textLength="16.8" lengthAdjust="spacing">]_</text>
+<text x="173.2" y="150.0" fill="#a88676" textLength="8.4" lengthAdjust="spacing">_</text>
+<text x="181.6" y="150.0" fill="#998a7b" textLength="16.8" lengthAdjust="spacing">&lt;~</text>
+<text x="198.4" y="150.0" fill="#9b8b6c" textLength="8.4" lengthAdjust="spacing">&gt;</text>
+<text x="206.8" y="150.0" fill="#998a7b" textLength="8.4" lengthAdjust="spacing">"</text>
+<text x="215.2" y="150.0" fill="#a18879" textLength="8.4" lengthAdjust="spacing">^</text>
+<text x="223.6" y="150.0" fill="#998a7b" textLength="16.8" lengthAdjust="spacing">~|</text>
+<text x="240.4" y="150.0" fill="#938a8a" textLength="16.8" lengthAdjust="spacing">`"</text>
+<text x="257.2" y="150.0" fill="#998a7b" textLength="8.4" lengthAdjust="spacing">]</text>
+<text x="265.6" y="150.0" fill="#a88676" textLength="8.4" lengthAdjust="spacing">[</text>
+<text x="274.0" y="150.0" fill="#a18879" textLength="8.4" lengthAdjust="spacing">^</text>
+<text x="282.4" y="150.0" fill="#998a7b" textLength="67.2" lengthAdjust="spacing">l_?~-,^"</text>
+<text x="349.6" y="150.0" fill="#8d8d7f" textLength="8.4" lengthAdjust="spacing">;</text>
+<text x="358.0" y="150.0" fill="#8c8c8c" textLength="84.0" lengthAdjust="spacing">'         </text>
+<text x="22.0" y="169.0" fill="#8c8c8c" textLength="58.8" lengthAdjust="spacing">      ;</text>
+<text x="80.8" y="169.0" fill="#9c8888" textLength="8.4" lengthAdjust="spacing">1</text>
+<text x="89.2" y="169.0" fill="#c07860" textLength="8.4" lengthAdjust="spacing">|</text>
+<text x="97.6" y="169.0" fill="#a87860" textLength="8.4" lengthAdjust="spacing">|</text>
+<text x="106.0" y="169.0" fill="#a87848" textLength="8.4" lengthAdjust="spacing">j</text>
+<text x="114.4" y="169.0" fill="#a87860" textLength="8.4" lengthAdjust="spacing">/</text>
+<text x="122.8" y="169.0" fill="#a28b5c" textLength="8.4" lengthAdjust="spacing">(</text>
+<text x="131.2" y="169.0" fill="#9d8976" textLength="16.8" lengthAdjust="spacing">x)</text>
+<text x="148.0" y="169.0" fill="#9b8b6c" textLength="8.4" lengthAdjust="spacing">{</text>
+<text x="156.4" y="169.0" fill="#998a7b" textLength="8.4" lengthAdjust="spacing">}</text>
+<text x="164.8" y="169.0" fill="#a88676" textLength="8.4" lengthAdjust="spacing">]</text>
+<text x="173.2" y="169.0" fill="#998a7b" textLength="16.8" lengthAdjust="spacing">_}</text>
+<text x="190.0" y="169.0" fill="#a88676" textLength="8.4" lengthAdjust="spacing">|</text>
+<text x="198.4" y="169.0" fill="#998a7b" textLength="16.8" lengthAdjust="spacing">i"</text>
+<text x="215.2" y="169.0" fill="#a18879" textLength="8.4" lengthAdjust="spacing">"</text>
+<text x="223.6" y="169.0" fill="#9b8a79" textLength="8.4" lengthAdjust="spacing">1</text>
+<text x="232.0" y="169.0" fill="#8d8d7f" textLength="8.4" lengthAdjust="spacing">]</text>
+<text x="240.4" y="169.0" fill="#938a8a" textLength="8.4" lengthAdjust="spacing">.</text>
+<text x="248.8" y="169.0" fill="#8d8d7f" textLength="8.4" lengthAdjust="spacing">'</text>
+<text x="257.2" y="169.0" fill="#938a8a" textLength="8.4" lengthAdjust="spacing">I</text>
+<text x="265.6" y="169.0" fill="#9b8a79" textLength="8.4" lengthAdjust="spacing">)</text>
+<text x="274.0" y="169.0" fill="#998a7b" textLength="8.4" lengthAdjust="spacing">_</text>
+<text x="282.4" y="169.0" fill="#a18879" textLength="8.4" lengthAdjust="spacing">^</text>
+<text x="290.8" y="169.0" fill="#998a7b" textLength="42.0" lengthAdjust="spacing">_?+~-</text>
+<text x="332.8" y="169.0" fill="#a18879" textLength="8.4" lengthAdjust="spacing">;</text>
+<text x="341.2" y="169.0" fill="#998a7b" textLength="8.4" lengthAdjust="spacing">;</text>
+<text x="349.6" y="169.0" fill="#988989" textLength="8.4" lengthAdjust="spacing">;</text>
+<text x="358.0" y="169.0" fill="#8c8c8c" textLength="84.0" lengthAdjust="spacing">,         </text>
+<text x="22.0" y="188.0" fill="#8c8c8c" textLength="58.8" lengthAdjust="spacing">      &gt;</text>
+<text x="80.8" y="188.0" fill="#9f8b63" textLength="8.4" lengthAdjust="spacing">[</text>
+<text x="89.2" y="188.0" fill="#b38659" textLength="8.4" lengthAdjust="spacing">)</text>
+<text x="97.6" y="188.0" fill="#a87860" textLength="8.4" lengthAdjust="spacing">\</text>
+<text x="106.0" y="188.0" fill="#a87848" textLength="8.4" lengthAdjust="spacing">t</text>
+<text x="114.4" y="188.0" fill="#b38659" textLength="8.4" lengthAdjust="spacing">)</text>
+<text x="122.8" y="188.0" fill="#ac8672" textLength="16.8" lengthAdjust="spacing">{/</text>
+<text x="139.6" y="188.0" fill="#9b8a79" textLength="16.8" lengthAdjust="spacing">xj</text>
+<text x="156.4" y="188.0" fill="#ac8672" textLength="8.4" lengthAdjust="spacing">r</text>
+<text x="164.8" y="188.0" fill="#9b8b6c" textLength="8.4" lengthAdjust="spacing">\</text>
+<text x="173.2" y="188.0" fill="#a88676" textLength="8.4" lengthAdjust="spacing">t</text>
+<text x="181.6" y="188.0" fill="#9b8a79" textLength="16.8" lengthAdjust="spacing">jf</text>
+<text x="198.4" y="188.0" fill="#9b8b6c" textLength="8.4" lengthAdjust="spacing">}</text>
+<text x="206.8" y="188.0" fill="#a18879" textLength="8.4" lengthAdjust="spacing">i</text>
+<text x="215.2" y="188.0" fill="#9b8a79" textLength="8.4" lengthAdjust="spacing">)</text>
+<text x="223.6" y="188.0" fill="#8d8d7e" textLength="8.4" lengthAdjust="spacing">/</text>
+<text x="232.0" y="188.0" fill="#8d8d7f" textLength="25.2" lengthAdjust="spacing">&lt;!;</text>
+<text x="257.2" y="188.0" fill="#938a8a" textLength="8.4" lengthAdjust="spacing">"</text>
+<text x="265.6" y="188.0" fill="#988989" textLength="8.4" lengthAdjust="spacing">1</text>
+<text x="274.0" y="188.0" fill="#9b8a79" textLength="8.4" lengthAdjust="spacing">j</text>
+<text x="282.4" y="188.0" fill="#a18879" textLength="8.4" lengthAdjust="spacing">`</text>
+<text x="290.8" y="188.0" fill="#998a7b" textLength="33.6" lengthAdjust="spacing">_-_~</text>
+<text x="324.4" y="188.0" fill="#a88676" textLength="8.4" lengthAdjust="spacing">1</text>
+<text x="332.8" y="188.0" fill="#998a7b" textLength="25.2" lengthAdjust="spacing">I^"</text>
+<text x="358.0" y="188.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">:</text>
+<text x="22.0" y="207.0" fill="#8c8c8c" textLength="58.8" lengthAdjust="spacing">      i</text>
+<text x="80.8" y="207.0" fill="#b1846e" textLength="8.4" lengthAdjust="spacing">[</text>
+<text x="89.2" y="207.0" fill="#b38659" textLength="16.8" lengthAdjust="spacing">1(</text>
+<text x="106.0" y="207.0" fill="#a87860" textLength="8.4" lengthAdjust="spacing">t</text>
+<text x="114.4" y="207.0" fill="#b1846e" textLength="8.4" lengthAdjust="spacing">f</text>
+<text x="122.8" y="207.0" fill="#af8383" textLength="8.4" lengthAdjust="spacing">r</text>
+<text x="131.2" y="207.0" fill="#9d8976" textLength="8.4" lengthAdjust="spacing">x</text>
+<text x="139.6" y="207.0" fill="#ac8672" textLength="8.4" lengthAdjust="spacing">n</text>
+<text x="148.0" y="207.0" fill="#9b8a79" textLength="8.4" lengthAdjust="spacing">f</text>
+<text x="156.4" y="207.0" fill="#a88676" textLength="8.4" lengthAdjust="spacing">)</text>
+<text x="164.8" y="207.0" fill="#9c8b68" textLength="16.8" lengthAdjust="spacing">1f</text>
+<text x="181.6" y="207.0" fill="#9b8a79" textLength="16.8" lengthAdjust="spacing">ff</text>
+<text x="198.4" y="207.0" fill="#998a7b" textLength="8.4" lengthAdjust="spacing">&lt;</text>
+<text x="206.8" y="207.0" fill="#9b8a79" textLength="8.4" lengthAdjust="spacing">+</text>
+<text x="215.2" y="207.0" fill="#9a8989" textLength="8.4" lengthAdjust="spacing">|</text>
+<text x="223.6" y="207.0" fill="#8d8d7f" textLength="25.2" lengthAdjust="spacing">&lt;_+</text>
+<text x="248.8" y="207.0" fill="#988989" textLength="16.8" lengthAdjust="spacing">]-</text>
+<text x="265.6" y="207.0" fill="#8d8d7f" textLength="8.4" lengthAdjust="spacing">-</text>
+<text x="274.0" y="207.0" fill="#9b8a79" textLength="8.4" lengthAdjust="spacing">x</text>
+<text x="282.4" y="207.0" fill="#a18879" textLength="8.4" lengthAdjust="spacing">!</text>
+<text x="290.8" y="207.0" fill="#998a7b" textLength="8.4" lengthAdjust="spacing">+</text>
+<text x="299.2" y="207.0" fill="#a88676" textLength="8.4" lengthAdjust="spacing">t</text>
+<text x="307.6" y="207.0" fill="#998a7b" textLength="16.8" lengthAdjust="spacing">-+</text>
+<text x="324.4" y="207.0" fill="#a88676" textLength="16.8" lengthAdjust="spacing">1)</text>
+<text x="341.2" y="207.0" fill="#998a7b" textLength="16.8" lengthAdjust="spacing">!"</text>
+<text x="358.0" y="207.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">:</text>
+<text x="22.0" y="226.0" fill="#8c8c8c" textLength="58.8" lengthAdjust="spacing">      i</text>
+<text x="80.8" y="226.0" fill="#b1846e" textLength="8.4" lengthAdjust="spacing">[</text>
+<text x="89.2" y="226.0" fill="#b38659" textLength="8.4" lengthAdjust="spacing">)</text>
+<text x="97.6" y="226.0" fill="#b1846e" textLength="8.4" lengthAdjust="spacing">r</text>
+<text x="106.0" y="226.0" fill="#a08972" textLength="8.4" lengthAdjust="spacing">j</text>
+<text x="114.4" y="226.0" fill="#8e8e7c" textLength="8.4" lengthAdjust="spacing">x</text>
+<text x="122.8" y="226.0" fill="#907878" textLength="8.4" lengthAdjust="spacing">x</text>
+<text x="131.2" y="226.0" fill="#a87890" textLength="8.4" lengthAdjust="spacing">n</text>
+<text x="139.6" y="226.0" fill="#907878" textLength="8.4" lengthAdjust="spacing">n</text>
+<text x="148.0" y="226.0" fill="#a87878" textLength="8.4" lengthAdjust="spacing">t</text>
+<text x="156.4" y="226.0" fill="#9d8976" textLength="8.4" lengthAdjust="spacing">?</text>
+<text x="164.8" y="226.0" fill="#ac8672" textLength="8.4" lengthAdjust="spacing">t</text>
+<text x="173.2" y="226.0" fill="#9b8a79" textLength="16.8" lengthAdjust="spacing">rn</text>
+<text x="190.0" y="226.0" fill="#a88676" textLength="8.4" lengthAdjust="spacing">)</text>
+<text x="198.4" y="226.0" fill="#998a7b" textLength="16.8" lengthAdjust="spacing">+~</text>
+<text x="215.2" y="226.0" fill="#988989" textLength="25.2" lengthAdjust="spacing">]]}</text>
+<text x="240.4" y="226.0" fill="#8d8d7f" textLength="8.4" lengthAdjust="spacing">-</text>
+<text x="248.8" y="226.0" fill="#938a8a" textLength="25.2" lengthAdjust="spacing">i:i</text>
+<text x="274.0" y="226.0" fill="#9b8a79" textLength="8.4" lengthAdjust="spacing">j</text>
+<text x="282.4" y="226.0" fill="#998a7b" textLength="16.8" lengthAdjust="spacing">i&lt;</text>
+<text x="299.2" y="226.0" fill="#9b8a79" textLength="8.4" lengthAdjust="spacing">/</text>
+<text x="307.6" y="226.0" fill="#998a7b" textLength="16.8" lengthAdjust="spacing">?_</text>
+<text x="324.4" y="226.0" fill="#a88676" textLength="8.4" lengthAdjust="spacing">{</text>
+<text x="332.8" y="226.0" fill="#9b8a79" textLength="8.4" lengthAdjust="spacing">t</text>
+<text x="341.2" y="226.0" fill="#a18879" textLength="8.4" lengthAdjust="spacing">;</text>
+<text x="349.6" y="226.0" fill="#998a7b" textLength="8.4" lengthAdjust="spacing">"</text>
+<text x="358.0" y="226.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">:</text>
+<text x="22.0" y="245.0" fill="#8c8c8c" textLength="58.8" lengthAdjust="spacing">      &gt;</text>
+<text x="80.8" y="245.0" fill="#b1846e" textLength="16.8" lengthAdjust="spacing">[[</text>
+<text x="97.6" y="245.0" fill="#9c8b68" textLength="8.4" lengthAdjust="spacing">n</text>
+<text x="106.0" y="245.0" fill="#b9826f" textLength="8.4" lengthAdjust="spacing">-</text>
+<text x="114.4" y="245.0" fill="#998a7b" textLength="8.4" lengthAdjust="spacing">]</text>
+<text x="122.8" y="245.0" fill="#a68585" textLength="25.2" lengthAdjust="spacing">[|/</text>
+<text x="148.0" y="245.0" fill="#9c8888" textLength="8.4" lengthAdjust="spacing">n</text>
+<text x="156.4" y="245.0" fill="#998a7b" textLength="8.4" lengthAdjust="spacing">[</text>
+<text x="164.8" y="245.0" fill="#988989" textLength="8.4" lengthAdjust="spacing">-</text>
+<text x="173.2" y="245.0" fill="#998a7b" textLength="16.8" lengthAdjust="spacing">{(</text>
+<text x="190.0" y="245.0" fill="#988989" textLength="8.4" lengthAdjust="spacing">&gt;</text>
+<text x="198.4" y="245.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">,</text>
+<text x="206.8" y="245.0" fill="#948b7d" textLength="8.4" lengthAdjust="spacing">&gt;</text>
+<text x="215.2" y="245.0" fill="#9c8888" textLength="8.4" lengthAdjust="spacing">x</text>
+<text x="223.6" y="245.0" fill="#786060" textLength="8.4" lengthAdjust="spacing">z</text>
+<text x="232.0" y="245.0" fill="#907878" textLength="8.4" lengthAdjust="spacing">n</text>
+<text x="240.4" y="245.0" fill="#787878" textLength="8.4" lengthAdjust="spacing">n</text>
+<text x="248.8" y="245.0" fill="#907878" textLength="8.4" lengthAdjust="spacing">n</text>
+<text x="257.2" y="245.0" fill="#8e8e79" textLength="8.4" lengthAdjust="spacing">f</text>
+<text x="265.6" y="245.0" fill="#8d8d7e" textLength="8.4" lengthAdjust="spacing">\</text>
+<text x="274.0" y="245.0" fill="#998a7b" textLength="8.4" lengthAdjust="spacing">/</text>
+<text x="282.4" y="245.0" fill="#a18879" textLength="8.4" lengthAdjust="spacing">;</text>
+<text x="290.8" y="245.0" fill="#998a7b" textLength="8.4" lengthAdjust="spacing">-</text>
+<text x="299.2" y="245.0" fill="#9b8a79" textLength="8.4" lengthAdjust="spacing">x</text>
+<text x="307.6" y="245.0" fill="#a88676" textLength="8.4" lengthAdjust="spacing">/</text>
+<text x="316.0" y="245.0" fill="#998a7b" textLength="8.4" lengthAdjust="spacing">+</text>
+<text x="324.4" y="245.0" fill="#a88676" textLength="8.4" lengthAdjust="spacing">}</text>
+<text x="332.8" y="245.0" fill="#9b8a79" textLength="8.4" lengthAdjust="spacing">1</text>
+<text x="341.2" y="245.0" fill="#a18879" textLength="8.4" lengthAdjust="spacing">^</text>
+<text x="349.6" y="245.0" fill="#998a7b" textLength="8.4" lengthAdjust="spacing">"</text>
+<text x="358.0" y="245.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">:</text>
+<text x="72.4" y="264.0" fill="#868e8e" textLength="8.4" lengthAdjust="spacing">+</text>
+<text x="80.8" y="264.0" fill="#a08972" textLength="8.4" lengthAdjust="spacing">r</text>
+<text x="89.2" y="264.0" fill="#ad8760" textLength="8.4" lengthAdjust="spacing">-</text>
+<text x="97.6" y="264.0" fill="#9b8a79" textLength="8.4" lengthAdjust="spacing">r</text>
+<text x="106.0" y="264.0" fill="#ac8672" textLength="8.4" lengthAdjust="spacing">}</text>
+<text x="114.4" y="264.0" fill="#a18879" textLength="8.4" lengthAdjust="spacing">!</text>
+<text x="122.8" y="264.0" fill="#9f8787" textLength="25.2" lengthAdjust="spacing">"^`</text>
+<text x="148.0" y="264.0" fill="#938a8a" textLength="16.8" lengthAdjust="spacing">.'</text>
+<text x="164.8" y="264.0" fill="#8d8d7f" textLength="8.4" lengthAdjust="spacing">!</text>
+<text x="173.2" y="264.0" fill="#a68585" textLength="8.4" lengthAdjust="spacing">;</text>
+<text x="181.6" y="264.0" fill="#998a7b" textLength="8.4" lengthAdjust="spacing">I</text>
+<text x="190.0" y="264.0" fill="#948b7d" textLength="8.4" lengthAdjust="spacing">,</text>
+<text x="198.4" y="264.0" fill="#8d8d7f" textLength="16.8" lengthAdjust="spacing">.^</text>
+<text x="215.2" y="264.0" fill="#988989" textLength="8.4" lengthAdjust="spacing">&gt;</text>
+<text x="223.6" y="264.0" fill="#a68585" textLength="16.8" lengthAdjust="spacing">)j</text>
+<text x="240.4" y="264.0" fill="#aa8484" textLength="8.4" lengthAdjust="spacing">f</text>
+<text x="248.8" y="264.0" fill="#a87890" textLength="8.4" lengthAdjust="spacing">n</text>
+<text x="257.2" y="264.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">x</text>
+<text x="265.6" y="264.0" fill="#9c8888" textLength="8.4" lengthAdjust="spacing">n</text>
+<text x="274.0" y="264.0" fill="#9d8976" textLength="8.4" lengthAdjust="spacing">j</text>
+<text x="282.4" y="264.0" fill="#998a7b" textLength="8.4" lengthAdjust="spacing">&lt;</text>
+<text x="290.8" y="264.0" fill="#9b8b6c" textLength="8.4" lengthAdjust="spacing">(</text>
+<text x="299.2" y="264.0" fill="#9b8a79" textLength="42.0" lengthAdjust="spacing">xr}j/</text>
+<text x="341.2" y="264.0" fill="#a18879" textLength="8.4" lengthAdjust="spacing">`</text>
+<text x="349.6" y="264.0" fill="#998a7b" textLength="8.4" lengthAdjust="spacing">"</text>
+<text x="358.0" y="264.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">I</text>
+<text x="22.0" y="283.0" fill="#8c8c8c" textLength="58.8" lengthAdjust="spacing">      &lt;</text>
+<text x="80.8" y="283.0" fill="#a08972" textLength="8.4" lengthAdjust="spacing">(</text>
+<text x="89.2" y="283.0" fill="#ad8760" textLength="8.4" lengthAdjust="spacing">+</text>
+<text x="97.6" y="283.0" fill="#a88676" textLength="8.4" lengthAdjust="spacing">[</text>
+<text x="106.0" y="283.0" fill="#ac8672" textLength="8.4" lengthAdjust="spacing">?</text>
+<text x="114.4" y="283.0" fill="#998a7b" textLength="8.4" lengthAdjust="spacing">t</text>
+<text x="122.8" y="283.0" fill="#8d8d7f" textLength="42.0" lengthAdjust="spacing">^'''"</text>
+<text x="164.8" y="283.0" fill="#a88676" textLength="8.4" lengthAdjust="spacing">I</text>
+<text x="173.2" y="283.0" fill="#ac8672" textLength="8.4" lengthAdjust="spacing">&lt;</text>
+<text x="181.6" y="283.0" fill="#a88676" textLength="8.4" lengthAdjust="spacing">l</text>
+<text x="190.0" y="283.0" fill="#8d8d7f" textLength="16.8" lengthAdjust="spacing">,.</text>
+<text x="206.8" y="283.0" fill="#948b7d" textLength="8.4" lengthAdjust="spacing">'</text>
+<text x="215.2" y="283.0" fill="#988989" textLength="8.4" lengthAdjust="spacing">^</text>
+<text x="223.6" y="283.0" fill="#9f8787" textLength="8.4" lengthAdjust="spacing">"</text>
+<text x="232.0" y="283.0" fill="#a18879" textLength="16.8" lengthAdjust="spacing">,I</text>
+<text x="248.8" y="283.0" fill="#9f8787" textLength="16.8" lengthAdjust="spacing">&gt;!</text>
+<text x="265.6" y="283.0" fill="#998a7b" textLength="16.8" lengthAdjust="spacing">-[</text>
+<text x="282.4" y="283.0" fill="#a18879" textLength="8.4" lengthAdjust="spacing">i</text>
+<text x="290.8" y="283.0" fill="#ac8672" textLength="8.4" lengthAdjust="spacing">\</text>
+<text x="299.2" y="283.0" fill="#9d8976" textLength="8.4" lengthAdjust="spacing">x</text>
+<text x="307.6" y="283.0" fill="#9b8a79" textLength="8.4" lengthAdjust="spacing">\</text>
+<text x="316.0" y="283.0" fill="#8e8e7c" textLength="8.4" lengthAdjust="spacing">r</text>
+<text x="324.4" y="283.0" fill="#9b8a79" textLength="8.4" lengthAdjust="spacing">x</text>
+<text x="332.8" y="283.0" fill="#a88676" textLength="8.4" lengthAdjust="spacing">[</text>
+<text x="341.2" y="283.0" fill="#a18879" textLength="8.4" lengthAdjust="spacing">^</text>
+<text x="349.6" y="283.0" fill="#998a7b" textLength="8.4" lengthAdjust="spacing">"</text>
+<text x="358.0" y="283.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">&gt;</text>
+<text x="22.0" y="302.0" fill="#8c8c8c" textLength="50.4" lengthAdjust="spacing">     "</text>
+<text x="72.4" y="302.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">+</text>
+<text x="80.8" y="302.0" fill="#a08972" textLength="8.4" lengthAdjust="spacing">)</text>
+<text x="89.2" y="302.0" fill="#ac8672" textLength="8.4" lengthAdjust="spacing">+</text>
+<text x="97.6" y="302.0" fill="#998a7b" textLength="8.4" lengthAdjust="spacing">?</text>
+<text x="106.0" y="302.0" fill="#aa8484" textLength="8.4" lengthAdjust="spacing">]</text>
+<text x="114.4" y="302.0" fill="#9f8787" textLength="8.4" lengthAdjust="spacing">}</text>
+<text x="122.8" y="302.0" fill="#938a8a" textLength="42.0" lengthAdjust="spacing">'   "</text>
+<text x="164.8" y="302.0" fill="#8d8d7f" textLength="75.6" lengthAdjust="spacing">;;:.''.'`</text>
+<text x="240.4" y="302.0" fill="#988989" textLength="16.8" lengthAdjust="spacing">``</text>
+<text x="257.2" y="302.0" fill="#9f8787" textLength="8.4" lengthAdjust="spacing">`</text>
+<text x="265.6" y="302.0" fill="#988989" textLength="8.4" lengthAdjust="spacing">!</text>
+<text x="274.0" y="302.0" fill="#998a7b" textLength="8.4" lengthAdjust="spacing">-</text>
+<text x="282.4" y="302.0" fill="#a18879" textLength="8.4" lengthAdjust="spacing">l</text>
+<text x="290.8" y="302.0" fill="#9b8a79" textLength="8.4" lengthAdjust="spacing">j</text>
+<text x="299.2" y="302.0" fill="#aa8484" textLength="8.4" lengthAdjust="spacing">|</text>
+<text x="307.6" y="302.0" fill="#988989" textLength="8.4" lengthAdjust="spacing">r</text>
+<text x="316.0" y="302.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">x</text>
+<text x="324.4" y="302.0" fill="#9b8a79" textLength="8.4" lengthAdjust="spacing">r</text>
+<text x="332.8" y="302.0" fill="#998a7b" textLength="8.4" lengthAdjust="spacing">&lt;</text>
+<text x="341.2" y="302.0" fill="#a18879" textLength="8.4" lengthAdjust="spacing">^</text>
+<text x="349.6" y="302.0" fill="#998a7b" textLength="8.4" lengthAdjust="spacing">~</text>
+<text x="358.0" y="302.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">_</text>
+<text x="366.4" y="302.0" fill="#8c8c8c" textLength="75.6" lengthAdjust="spacing">^        </text>
+<text x="64.0" y="321.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">+</text>
+<text x="72.4" y="321.0" fill="#998a7b" textLength="8.4" lengthAdjust="spacing">{</text>
+<text x="80.8" y="321.0" fill="#9f8b63" textLength="8.4" lengthAdjust="spacing">j</text>
+<text x="89.2" y="321.0" fill="#ad8760" textLength="8.4" lengthAdjust="spacing">]</text>
+<text x="97.6" y="321.0" fill="#a88676" textLength="8.4" lengthAdjust="spacing">{</text>
+<text x="106.0" y="321.0" fill="#a87860" textLength="8.4" lengthAdjust="spacing">j</text>
+<text x="114.4" y="321.0" fill="#a08972" textLength="8.4" lengthAdjust="spacing">x</text>
+<text x="122.8" y="321.0" fill="#9c8888" textLength="16.8" lengthAdjust="spacing">jr</text>
+<text x="139.6" y="321.0" fill="#9b8a79" textLength="16.8" lengthAdjust="spacing">/|</text>
+<text x="156.4" y="321.0" fill="#998a7b" textLength="8.4" lengthAdjust="spacing">)</text>
+<text x="164.8" y="321.0" fill="#938a8a" textLength="8.4" lengthAdjust="spacing">,</text>
+<text x="173.2" y="321.0" fill="#8d8d7f" textLength="84.0" lengthAdjust="spacing">.'''''....</text>
+<text x="257.2" y="321.0" fill="#938a8a" textLength="8.4" lengthAdjust="spacing">.</text>
+<text x="265.6" y="321.0" fill="#8d8d7f" textLength="8.4" lengthAdjust="spacing">_</text>
+<text x="274.0" y="321.0" fill="#998a7b" textLength="16.8" lengthAdjust="spacing">[{</text>
+<text x="290.8" y="321.0" fill="#9b8a79" textLength="16.8" lengthAdjust="spacing">}{</text>
+<text x="307.6" y="321.0" fill="#9a8989" textLength="8.4" lengthAdjust="spacing">n</text>
+<text x="316.0" y="321.0" fill="#9f8b63" textLength="8.4" lengthAdjust="spacing">/</text>
+<text x="324.4" y="321.0" fill="#ac8672" textLength="8.4" lengthAdjust="spacing">|</text>
+<text x="332.8" y="321.0" fill="#a18879" textLength="8.4" lengthAdjust="spacing">^</text>
+<text x="341.2" y="321.0" fill="#998a7b" textLength="8.4" lengthAdjust="spacing">:</text>
+<text x="349.6" y="321.0" fill="#9b8a79" textLength="8.4" lengthAdjust="spacing">~</text>
+<text x="358.0" y="321.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">j</text>
+<text x="366.4" y="321.0" fill="#8c8c8c" textLength="75.6" lengthAdjust="spacing">!        </text>
+<text x="22.0" y="340.0" fill="#8c8c8c" textLength="58.8" lengthAdjust="spacing">     .I</text>
+<text x="80.8" y="340.0" fill="#8e8e7c" textLength="8.4" lengthAdjust="spacing">f</text>
+<text x="89.2" y="340.0" fill="#b38659" textLength="8.4" lengthAdjust="spacing">1</text>
+<text x="97.6" y="340.0" fill="#998a7b" textLength="8.4" lengthAdjust="spacing">)</text>
+<text x="106.0" y="340.0" fill="#9d8976" textLength="8.4" lengthAdjust="spacing">j</text>
+<text x="114.4" y="340.0" fill="#a87860" textLength="8.4" lengthAdjust="spacing">t</text>
+<text x="122.8" y="340.0" fill="#b1846e" textLength="8.4" lengthAdjust="spacing">t</text>
+<text x="131.2" y="340.0" fill="#9d8976" textLength="8.4" lengthAdjust="spacing">j</text>
+<text x="139.6" y="340.0" fill="#9c8888" textLength="8.4" lengthAdjust="spacing">)</text>
+<text x="148.0" y="340.0" fill="#9d8976" textLength="8.4" lengthAdjust="spacing">x</text>
+<text x="156.4" y="340.0" fill="#ac8672" textLength="8.4" lengthAdjust="spacing">\</text>
+<text x="164.8" y="340.0" fill="#8d8d7f" textLength="100.8" lengthAdjust="spacing">!'''''''''^?</text>
+<text x="265.6" y="340.0" fill="#8d8d7e" textLength="8.4" lengthAdjust="spacing">f</text>
+<text x="274.0" y="340.0" fill="#998a7b" textLength="8.4" lengthAdjust="spacing">{</text>
+<text x="282.4" y="340.0" fill="#9b8a79" textLength="8.4" lengthAdjust="spacing">]</text>
+<text x="290.8" y="340.0" fill="#9d8976" textLength="8.4" lengthAdjust="spacing">/</text>
+<text x="299.2" y="340.0" fill="#b1846e" textLength="8.4" lengthAdjust="spacing">1</text>
+<text x="307.6" y="340.0" fill="#a87860" textLength="8.4" lengthAdjust="spacing">\</text>
+<text x="316.0" y="340.0" fill="#b38659" textLength="8.4" lengthAdjust="spacing">(</text>
+<text x="324.4" y="340.0" fill="#998a7b" textLength="8.4" lengthAdjust="spacing">?</text>
+<text x="332.8" y="340.0" fill="#a18879" textLength="8.4" lengthAdjust="spacing">^</text>
+<text x="341.2" y="340.0" fill="#998a7b" textLength="8.4" lengthAdjust="spacing">;</text>
+<text x="349.6" y="340.0" fill="#9b8a79" textLength="8.4" lengthAdjust="spacing">-</text>
+<text x="358.0" y="340.0" fill="#9a8989" textLength="8.4" lengthAdjust="spacing">x</text>
+<text x="366.4" y="340.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">]</text>
+<text x="80.8" y="359.0" fill="#988989" textLength="8.4" lengthAdjust="spacing">\</text>
+<text x="89.2" y="359.0" fill="#b38659" textLength="8.4" lengthAdjust="spacing">)</text>
+<text x="97.6" y="359.0" fill="#9b8b6c" textLength="8.4" lengthAdjust="spacing">|</text>
+<text x="106.0" y="359.0" fill="#9c8b68" textLength="8.4" lengthAdjust="spacing">x</text>
+<text x="114.4" y="359.0" fill="#b1846e" textLength="16.8" lengthAdjust="spacing">1}</text>
+<text x="131.2" y="359.0" fill="#ac8672" textLength="8.4" lengthAdjust="spacing">~</text>
+<text x="139.6" y="359.0" fill="#948b7d" textLength="8.4" lengthAdjust="spacing">i</text>
+<text x="148.0" y="359.0" fill="#8d8d85" textLength="8.4" lengthAdjust="spacing">l</text>
+<text x="156.4" y="359.0" fill="#948b7d" textLength="16.8" lengthAdjust="spacing">l'</text>
+<text x="173.2" y="359.0" fill="#8d8d7f" textLength="75.6" lengthAdjust="spacing">'...`"^`!</text>
+<text x="248.8" y="359.0" fill="#938a8a" textLength="8.4" lengthAdjust="spacing">&gt;</text>
+<text x="257.2" y="359.0" fill="#8d8d7e" textLength="8.4" lengthAdjust="spacing">t</text>
+<text x="265.6" y="359.0" fill="#8b8b9f" textLength="8.4" lengthAdjust="spacing">-</text>
+<text x="274.0" y="359.0" fill="#9b8a79" textLength="8.4" lengthAdjust="spacing">|</text>
+<text x="282.4" y="359.0" fill="#a88676" textLength="8.4" lengthAdjust="spacing">\</text>
+<text x="290.8" y="359.0" fill="#a87860" textLength="8.4" lengthAdjust="spacing">\</text>
+<text x="299.2" y="359.0" fill="#c07860" textLength="8.4" lengthAdjust="spacing">|</text>
+<text x="307.6" y="359.0" fill="#b38659" textLength="8.4" lengthAdjust="spacing">|</text>
+<text x="316.0" y="359.0" fill="#ac8672" textLength="8.4" lengthAdjust="spacing">|</text>
+<text x="324.4" y="359.0" fill="#a18879" textLength="8.4" lengthAdjust="spacing">,</text>
+<text x="332.8" y="359.0" fill="#998a7b" textLength="16.8" lengthAdjust="spacing">"l</text>
+<text x="349.6" y="359.0" fill="#ac8672" textLength="8.4" lengthAdjust="spacing">}</text>
+<text x="358.0" y="359.0" fill="#9b8a79" textLength="8.4" lengthAdjust="spacing">\</text>
+<text x="366.4" y="359.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">(</text>
+<text x="22.0" y="378.0" fill="#8c8c8c" textLength="67.2" lengthAdjust="spacing">       ?</text>
+<text x="89.2" y="378.0" fill="#9a8989" textLength="8.4" lengthAdjust="spacing">j</text>
+<text x="97.6" y="378.0" fill="#ac8672" textLength="8.4" lengthAdjust="spacing">j</text>
+<text x="106.0" y="378.0" fill="#a88676" textLength="8.4" lengthAdjust="spacing">j</text>
+<text x="114.4" y="378.0" fill="#b1846e" textLength="8.4" lengthAdjust="spacing">/</text>
+<text x="122.8" y="378.0" fill="#b38659" textLength="16.8" lengthAdjust="spacing">{)</text>
+<text x="139.6" y="378.0" fill="#b1846e" textLength="8.4" lengthAdjust="spacing">1</text>
+<text x="148.0" y="378.0" fill="#9b8a79" textLength="8.4" lengthAdjust="spacing">(</text>
+<text x="156.4" y="378.0" fill="#8d8d7f" textLength="16.8" lengthAdjust="spacing">__</text>
+<text x="173.2" y="378.0" fill="#948b7d" textLength="8.4" lengthAdjust="spacing">&gt;</text>
+<text x="181.6" y="378.0" fill="#988989" textLength="25.2" lengthAdjust="spacing">++~</text>
+<text x="206.8" y="378.0" fill="#8d8d7f" textLength="16.8" lengthAdjust="spacing">!i</text>
+<text x="223.6" y="378.0" fill="#938a8a" textLength="16.8" lengthAdjust="spacing">:&gt;</text>
+<text x="240.4" y="378.0" fill="#8d8d7f" textLength="8.4" lengthAdjust="spacing">)</text>
+<text x="248.8" y="378.0" fill="#9c8888" textLength="8.4" lengthAdjust="spacing">r</text>
+<text x="257.2" y="378.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">\</text>
+<text x="265.6" y="378.0" fill="#8b8b9b" textLength="8.4" lengthAdjust="spacing">+</text>
+<text x="274.0" y="378.0" fill="#988989" textLength="8.4" lengthAdjust="spacing">\</text>
+<text x="282.4" y="378.0" fill="#9c8b68" textLength="8.4" lengthAdjust="spacing">x</text>
+<text x="290.8" y="378.0" fill="#b38659" textLength="25.2" lengthAdjust="spacing">)|)</text>
+<text x="316.0" y="378.0" fill="#998a7b" textLength="8.4" lengthAdjust="spacing">?</text>
+<text x="324.4" y="378.0" fill="#a18879" textLength="8.4" lengthAdjust="spacing">^</text>
+<text x="332.8" y="378.0" fill="#998a7b" textLength="8.4" lengthAdjust="spacing">^</text>
+<text x="341.2" y="378.0" fill="#a18879" textLength="8.4" lengthAdjust="spacing">i</text>
+<text x="349.6" y="378.0" fill="#9f8b63" textLength="8.4" lengthAdjust="spacing">(</text>
+<text x="358.0" y="378.0" fill="#9c8b68" textLength="8.4" lengthAdjust="spacing">}</text>
+<text x="366.4" y="378.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">]</text>
+<text x="22.0" y="397.0" fill="#8c8c8c" textLength="50.4" lengthAdjust="spacing">     i</text>
+<text x="72.4" y="397.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">)</text>
+<text x="80.8" y="397.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">j</text>
+<text x="89.2" y="397.0" fill="#606060" textLength="8.4" lengthAdjust="spacing">J</text>
+<text x="97.6" y="397.0" fill="#604848" textLength="8.4" lengthAdjust="spacing">Q</text>
+<text x="106.0" y="397.0" fill="#a88676" textLength="8.4" lengthAdjust="spacing">r</text>
+<text x="114.4" y="397.0" fill="#9b8a79" textLength="8.4" lengthAdjust="spacing">|</text>
+<text x="122.8" y="397.0" fill="#b1846e" textLength="8.4" lengthAdjust="spacing">}</text>
+<text x="131.2" y="397.0" fill="#b38659" textLength="8.4" lengthAdjust="spacing">)</text>
+<text x="139.6" y="397.0" fill="#a87860" textLength="8.4" lengthAdjust="spacing">\</text>
+<text x="148.0" y="397.0" fill="#8e8e79" textLength="8.4" lengthAdjust="spacing">[</text>
+<text x="156.4" y="397.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">t</text>
+<text x="164.8" y="397.0" fill="#8e8e79" textLength="8.4" lengthAdjust="spacing">n</text>
+<text x="173.2" y="397.0" fill="#a08972" textLength="8.4" lengthAdjust="spacing">r</text>
+<text x="181.6" y="397.0" fill="#988989" textLength="8.4" lengthAdjust="spacing">\</text>
+<text x="190.0" y="397.0" fill="#938a8a" textLength="25.2" lengthAdjust="spacing">_!+</text>
+<text x="215.2" y="397.0" fill="#988989" textLength="8.4" lengthAdjust="spacing">1</text>
+<text x="223.6" y="397.0" fill="#9c8888" textLength="8.4" lengthAdjust="spacing">j</text>
+<text x="232.0" y="397.0" fill="#787878" textLength="8.4" lengthAdjust="spacing">n</text>
+<text x="240.4" y="397.0" fill="#484848" textLength="8.4" lengthAdjust="spacing">0</text>
+<text x="248.8" y="397.0" fill="#606060" textLength="8.4" lengthAdjust="spacing">U</text>
+<text x="257.2" y="397.0" fill="#8e8e79" textLength="8.4" lengthAdjust="spacing">{</text>
+<text x="265.6" y="397.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">&gt;</text>
+<text x="274.0" y="397.0" fill="#988989" textLength="8.4" lengthAdjust="spacing">f</text>
+<text x="282.4" y="397.0" fill="#b1846e" textLength="8.4" lengthAdjust="spacing">f</text>
+<text x="290.8" y="397.0" fill="#c07860" textLength="8.4" lengthAdjust="spacing">|</text>
+<text x="299.2" y="397.0" fill="#a87860" textLength="8.4" lengthAdjust="spacing">|</text>
+<text x="307.6" y="397.0" fill="#ac8672" textLength="8.4" lengthAdjust="spacing">/</text>
+<text x="316.0" y="397.0" fill="#a18879" textLength="8.4" lengthAdjust="spacing">^</text>
+<text x="324.4" y="397.0" fill="#998a7b" textLength="8.4" lengthAdjust="spacing">"</text>
+<text x="332.8" y="397.0" fill="#a18879" textLength="8.4" lengthAdjust="spacing">"</text>
+<text x="341.2" y="397.0" fill="#998a7b" textLength="8.4" lengthAdjust="spacing">)</text>
+<text x="349.6" y="397.0" fill="#a87860" textLength="8.4" lengthAdjust="spacing">t</text>
+<text x="358.0" y="397.0" fill="#b1846e" textLength="8.4" lengthAdjust="spacing">(</text>
+<text x="366.4" y="397.0" fill="#8d8d7f" textLength="8.4" lengthAdjust="spacing">t</text>
+<text x="374.8" y="397.0" fill="#8c8c8c" textLength="67.2" lengthAdjust="spacing">`       </text>
+<text x="22.0" y="416.0" fill="#8c8c8c" textLength="33.6" lengthAdjust="spacing">   ~</text>
+<text x="55.6" y="416.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">f</text>
+<text x="64.0" y="416.0" fill="#787878" textLength="8.4" lengthAdjust="spacing">n</text>
+<text x="72.4" y="416.0" fill="#303030" textLength="8.4" lengthAdjust="spacing">a</text>
+<text x="80.8" y="416.0" fill="#181818" textLength="16.8" lengthAdjust="spacing">@@</text>
+<text x="97.6" y="416.0" fill="#786048" textLength="8.4" lengthAdjust="spacing">J</text>
+<text x="106.0" y="416.0" fill="#b38659" textLength="8.4" lengthAdjust="spacing">[</text>
+<text x="114.4" y="416.0" fill="#9b8a79" textLength="8.4" lengthAdjust="spacing">x</text>
+<text x="122.8" y="416.0" fill="#a88676" textLength="8.4" lengthAdjust="spacing">r</text>
+<text x="131.2" y="416.0" fill="#b1846e" textLength="8.4" lengthAdjust="spacing">1</text>
+<text x="139.6" y="416.0" fill="#a87860" textLength="8.4" lengthAdjust="spacing">\</text>
+<text x="148.0" y="416.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">{</text>
+<text x="156.4" y="416.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">;</text>
+<text x="164.8" y="416.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">t</text>
+<text x="173.2" y="416.0" fill="#786060" textLength="8.4" lengthAdjust="spacing">U</text>
+<text x="181.6" y="416.0" fill="#606060" textLength="8.4" lengthAdjust="spacing">U</text>
+<text x="190.0" y="416.0" fill="#8e8e76" textLength="8.4" lengthAdjust="spacing">/</text>
+<text x="198.4" y="416.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">\</text>
+<text x="206.8" y="416.0" fill="#606060" textLength="8.4" lengthAdjust="spacing">z</text>
+<text x="215.2" y="416.0" fill="#604848" textLength="8.4" lengthAdjust="spacing">Q</text>
+<text x="223.6" y="416.0" fill="#606060" textLength="8.4" lengthAdjust="spacing">X</text>
+<text x="232.0" y="416.0" fill="#9e8787" textLength="8.4" lengthAdjust="spacing">f</text>
+<text x="240.4" y="416.0" fill="#8d8d7e" textLength="8.4" lengthAdjust="spacing">t</text>
+<text x="248.8" y="416.0" fill="#998a7b" textLength="8.4" lengthAdjust="spacing">1</text>
+<text x="257.2" y="416.0" fill="#9c8888" textLength="8.4" lengthAdjust="spacing">_</text>
+<text x="265.6" y="416.0" fill="#8c8c8c" textLength="16.8" lengthAdjust="spacing">&gt;n</text>
+<text x="282.4" y="416.0" fill="#b38659" textLength="16.8" lengthAdjust="spacing">)(</text>
+<text x="299.2" y="416.0" fill="#a28b5c" textLength="8.4" lengthAdjust="spacing">|</text>
+<text x="307.6" y="416.0" fill="#998a7b" textLength="8.4" lengthAdjust="spacing">+</text>
+<text x="316.0" y="416.0" fill="#a18879" textLength="8.4" lengthAdjust="spacing">^</text>
+<text x="324.4" y="416.0" fill="#998a7b" textLength="8.4" lengthAdjust="spacing">"</text>
+<text x="332.8" y="416.0" fill="#a18879" textLength="8.4" lengthAdjust="spacing">i</text>
+<text x="341.2" y="416.0" fill="#9d8976" textLength="8.4" lengthAdjust="spacing">r</text>
+<text x="349.6" y="416.0" fill="#484848" textLength="16.8" lengthAdjust="spacing">ZO</text>
+<text x="366.4" y="416.0" fill="#907878" textLength="8.4" lengthAdjust="spacing">f</text>
+<text x="374.8" y="416.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">j</text>
+<text x="383.2" y="416.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">{</text>
+<text x="391.6" y="416.0" fill="#8c8c8c" textLength="50.4" lengthAdjust="spacing">l     </text>
+<text x="22.0" y="435.0" fill="#8c8c8c" textLength="16.8" lengthAdjust="spacing"> .</text>
+<text x="38.8" y="435.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">1</text>
+<text x="47.2" y="435.0" fill="#787878" textLength="8.4" lengthAdjust="spacing">n</text>
+<text x="55.6" y="435.0" fill="#181818" textLength="16.8" lengthAdjust="spacing">%%</text>
+<text x="72.4" y="435.0" fill="#303030" textLength="8.4" lengthAdjust="spacing">o</text>
+<text x="80.8" y="435.0" fill="#484848" textLength="16.8" lengthAdjust="spacing">pd</text>
+<text x="97.6" y="435.0" fill="#907860" textLength="8.4" lengthAdjust="spacing">x</text>
+<text x="106.0" y="435.0" fill="#ad8760" textLength="8.4" lengthAdjust="spacing">_</text>
+<text x="114.4" y="435.0" fill="#998a7b" textLength="8.4" lengthAdjust="spacing">_</text>
+<text x="122.8" y="435.0" fill="#a88676" textLength="8.4" lengthAdjust="spacing">\</text>
+<text x="131.2" y="435.0" fill="#9b8a79" textLength="8.4" lengthAdjust="spacing">r</text>
+<text x="139.6" y="435.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">{</text>
+<text x="148.0" y="435.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">i</text>
+<text x="156.4" y="435.0" fill="#8c8c8c" textLength="16.8" lengthAdjust="spacing">&lt;-</text>
+<text x="173.2" y="435.0" fill="#9b8a79" textLength="8.4" lengthAdjust="spacing">}</text>
+<text x="181.6" y="435.0" fill="#be7f7f" textLength="8.4" lengthAdjust="spacing">(</text>
+<text x="190.0" y="435.0" fill="#907860" textLength="8.4" lengthAdjust="spacing">r</text>
+<text x="198.4" y="435.0" fill="#787860" textLength="8.4" lengthAdjust="spacing">n</text>
+<text x="206.8" y="435.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">j</text>
+<text x="215.2" y="435.0" fill="#988989" textLength="8.4" lengthAdjust="spacing">(</text>
+<text x="223.6" y="435.0" fill="#938a8a" textLength="25.2" lengthAdjust="spacing">~^I</text>
+<text x="248.8" y="435.0" fill="#9b8a79" textLength="8.4" lengthAdjust="spacing">-</text>
+<text x="257.2" y="435.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">_</text>
+<text x="265.6" y="435.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">_</text>
+<text x="274.0" y="435.0" fill="#8d8d7e" textLength="8.4" lengthAdjust="spacing">r</text>
+<text x="282.4" y="435.0" fill="#a87860" textLength="8.4" lengthAdjust="spacing">\</text>
+<text x="290.8" y="435.0" fill="#b38659" textLength="8.4" lengthAdjust="spacing">(</text>
+<text x="299.2" y="435.0" fill="#a88676" textLength="8.4" lengthAdjust="spacing">{</text>
+<text x="307.6" y="435.0" fill="#a18879" textLength="8.4" lengthAdjust="spacing">^</text>
+<text x="316.0" y="435.0" fill="#998a7b" textLength="8.4" lengthAdjust="spacing">"</text>
+<text x="324.4" y="435.0" fill="#a18879" textLength="8.4" lengthAdjust="spacing">"</text>
+<text x="332.8" y="435.0" fill="#998a7b" textLength="8.4" lengthAdjust="spacing">|</text>
+<text x="341.2" y="435.0" fill="#787878" textLength="8.4" lengthAdjust="spacing">n</text>
+<text x="349.6" y="435.0" fill="#484848" textLength="33.6" lengthAdjust="spacing">mmpp</text>
+<text x="383.2" y="435.0" fill="#606060" textLength="8.4" lengthAdjust="spacing">L</text>
+<text x="391.6" y="435.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">|</text>
+<text x="400.0" y="435.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">/</text>
+<text x="408.4" y="435.0" fill="#8c8c8c" textLength="33.6" lengthAdjust="spacing">i   </text>
+<text x="30.4" y="454.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">1</text>
+<text x="38.8" y="454.0" fill="#606060" textLength="8.4" lengthAdjust="spacing">U</text>
+<text x="47.2" y="454.0" fill="#181818" textLength="8.4" lengthAdjust="spacing">$</text>
+<text x="55.6" y="454.0" fill="#484848" textLength="42.0" lengthAdjust="spacing">dwqqq</text>
+<text x="97.6" y="454.0" fill="#a87860" textLength="8.4" lengthAdjust="spacing">f</text>
+<text x="106.0" y="454.0" fill="#a98766" textLength="8.4" lengthAdjust="spacing">~</text>
+<text x="114.4" y="454.0" fill="#a18879" textLength="8.4" lengthAdjust="spacing">^</text>
+<text x="122.8" y="454.0" fill="#a88676" textLength="8.4" lengthAdjust="spacing">[</text>
+<text x="131.2" y="454.0" fill="#8e8e7c" textLength="8.4" lengthAdjust="spacing">?</text>
+<text x="139.6" y="454.0" fill="#8c8c8c" textLength="16.8" lengthAdjust="spacing">&gt;&lt;</text>
+<text x="156.4" y="454.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">_</text>
+<text x="164.8" y="454.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">_</text>
+<text x="173.2" y="454.0" fill="#988989" textLength="8.4" lengthAdjust="spacing">f</text>
+<text x="181.6" y="454.0" fill="#998a7b" textLength="8.4" lengthAdjust="spacing">-</text>
+<text x="190.0" y="454.0" fill="#a88676" textLength="16.8" lengthAdjust="spacing">!l</text>
+<text x="206.8" y="454.0" fill="#9f8787" textLength="8.4" lengthAdjust="spacing">!</text>
+<text x="215.2" y="454.0" fill="#938a8a" textLength="8.4" lengthAdjust="spacing">^</text>
+<text x="223.6" y="454.0" fill="#8d8d7f" textLength="16.8" lengthAdjust="spacing">',</text>
+<text x="240.4" y="454.0" fill="#998a7b" textLength="8.4" lengthAdjust="spacing">[</text>
+<text x="248.8" y="454.0" fill="#9c8888" textLength="8.4" lengthAdjust="spacing">[</text>
+<text x="257.2" y="454.0" fill="#809090" textLength="8.4" lengthAdjust="spacing">]</text>
+<text x="265.6" y="454.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">&lt;</text>
+<text x="274.0" y="454.0" fill="#8d8d7e" textLength="8.4" lengthAdjust="spacing">(</text>
+<text x="282.4" y="454.0" fill="#a87848" textLength="8.4" lengthAdjust="spacing">f</text>
+<text x="290.8" y="454.0" fill="#9c8b68" textLength="8.4" lengthAdjust="spacing">(</text>
+<text x="299.2" y="454.0" fill="#a18879" textLength="8.4" lengthAdjust="spacing">:</text>
+<text x="307.6" y="454.0" fill="#998a7b" textLength="16.8" lengthAdjust="spacing">"^</text>
+<text x="324.4" y="454.0" fill="#a18879" textLength="8.4" lengthAdjust="spacing">-</text>
+<text x="332.8" y="454.0" fill="#9e8787" textLength="8.4" lengthAdjust="spacing">x</text>
+<text x="341.2" y="454.0" fill="#484848" textLength="50.4" lengthAdjust="spacing">OmmZZw</text>
+<text x="391.6" y="454.0" fill="#304848" textLength="8.4" lengthAdjust="spacing">d</text>
+<text x="400.0" y="454.0" fill="#484848" textLength="8.4" lengthAdjust="spacing">m</text>
+<text x="408.4" y="454.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">|</text>
+<text x="416.8" y="454.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">|</text>
+<text x="425.2" y="454.0" fill="#8c8c8c" textLength="16.8" lengthAdjust="spacing">` </text>
+<text x="22.0" y="473.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">l</text>
+<text x="30.4" y="473.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">t</text>
+<text x="38.8" y="473.0" fill="#181818" textLength="8.4" lengthAdjust="spacing">$</text>
+<text x="47.2" y="473.0" fill="#484848" textLength="50.4" lengthAdjust="spacing">qqpqpZ</text>
+<text x="97.6" y="473.0" fill="#b38659" textLength="8.4" lengthAdjust="spacing">1</text>
+<text x="106.0" y="473.0" fill="#9b8b6c" textLength="8.4" lengthAdjust="spacing">~</text>
+<text x="114.4" y="473.0" fill="#a18879" textLength="8.4" lengthAdjust="spacing">!</text>
+<text x="122.8" y="473.0" fill="#8e8e7c" textLength="8.4" lengthAdjust="spacing">]</text>
+<text x="131.2" y="473.0" fill="#8c8c8c" textLength="25.2" lengthAdjust="spacing">i!?</text>
+<text x="156.4" y="473.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">|</text>
+<text x="164.8" y="473.0" fill="#9c8888" textLength="8.4" lengthAdjust="spacing">j</text>
+<text x="173.2" y="473.0" fill="#9a8989" textLength="8.4" lengthAdjust="spacing">x</text>
+<text x="181.6" y="473.0" fill="#938a8a" textLength="8.4" lengthAdjust="spacing">[</text>
+<text x="190.0" y="473.0" fill="#8d8d7f" textLength="8.4" lengthAdjust="spacing">_</text>
+<text x="198.4" y="473.0" fill="#998a7b" textLength="8.4" lengthAdjust="spacing">-</text>
+<text x="206.8" y="473.0" fill="#a88676" textLength="8.4" lengthAdjust="spacing">!</text>
+<text x="215.2" y="473.0" fill="#988989" textLength="8.4" lengthAdjust="spacing">I</text>
+<text x="223.6" y="473.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">'</text>
+<text x="232.0" y="473.0" fill="#988989" textLength="8.4" lengthAdjust="spacing">?</text>
+<text x="240.4" y="473.0" fill="#9b8a79" textLength="8.4" lengthAdjust="spacing">)</text>
+<text x="248.8" y="473.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">x</text>
+<text x="257.2" y="473.0" fill="#9a879a" textLength="8.4" lengthAdjust="spacing">t</text>
+<text x="265.6" y="473.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">~</text>
+<text x="274.0" y="473.0" fill="#9c8888" textLength="8.4" lengthAdjust="spacing">/</text>
+<text x="282.4" y="473.0" fill="#b1846e" textLength="8.4" lengthAdjust="spacing">/</text>
+<text x="290.8" y="473.0" fill="#a18879" textLength="8.4" lengthAdjust="spacing">&gt;</text>
+<text x="299.2" y="473.0" fill="#998a7b" textLength="16.8" lengthAdjust="spacing">""</text>
+<text x="316.0" y="473.0" fill="#a18879" textLength="8.4" lengthAdjust="spacing">&gt;</text>
+<text x="324.4" y="473.0" fill="#9b8a79" textLength="8.4" lengthAdjust="spacing">j</text>
+<text x="332.8" y="473.0" fill="#606060" textLength="8.4" lengthAdjust="spacing">C</text>
+<text x="341.2" y="473.0" fill="#484848" textLength="67.2" lengthAdjust="spacing">mmmmmZZm</text>
+<text x="408.4" y="473.0" fill="#303048" textLength="8.4" lengthAdjust="spacing">b</text>
+<text x="416.8" y="473.0" fill="#606060" textLength="8.4" lengthAdjust="spacing">J</text>
+<text x="425.2" y="473.0" fill="#8b8b9b" textLength="8.4" lengthAdjust="spacing">t</text>
+<text x="433.6" y="473.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">`</text>
+<text x="22.0" y="492.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">|</text>
+<text x="30.4" y="492.0" fill="#303030" textLength="16.8" lengthAdjust="spacing">ak</text>
+<text x="47.2" y="492.0" fill="#484848" textLength="42.0" lengthAdjust="spacing">qpqqp</text>
+<text x="89.2" y="492.0" fill="#606048" textLength="8.4" lengthAdjust="spacing">C</text>
+<text x="97.6" y="492.0" fill="#ad8760" textLength="8.4" lengthAdjust="spacing">-</text>
+<text x="106.0" y="492.0" fill="#a18879" textLength="8.4" lengthAdjust="spacing">l</text>
+<text x="114.4" y="492.0" fill="#9b8a79" textLength="8.4" lengthAdjust="spacing">)</text>
+<text x="122.8" y="492.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">)</text>
+<text x="131.2" y="492.0" fill="#8c8c8c" textLength="16.8" lengthAdjust="spacing">ft</text>
+<text x="148.0" y="492.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">1</text>
+<text x="156.4" y="492.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">i</text>
+<text x="164.8" y="492.0" fill="#9e8787" textLength="8.4" lengthAdjust="spacing">/</text>
+<text x="173.2" y="492.0" fill="#783030" textLength="8.4" lengthAdjust="spacing">q</text>
+<text x="181.6" y="492.0" fill="#9e8787" textLength="8.4" lengthAdjust="spacing">/</text>
+<text x="190.0" y="492.0" fill="#8d8d7f" textLength="42.0" lengthAdjust="spacing">{+,`l</text>
+<text x="232.0" y="492.0" fill="#a68585" textLength="8.4" lengthAdjust="spacing">_</text>
+<text x="240.4" y="492.0" fill="#af8383" textLength="8.4" lengthAdjust="spacing">r</text>
+<text x="248.8" y="492.0" fill="#a86060" textLength="8.4" lengthAdjust="spacing">n</text>
+<text x="257.2" y="492.0" fill="#8c8c8c" textLength="16.8" lengthAdjust="spacing">]-</text>
+<text x="274.0" y="492.0" fill="#a08972" textLength="8.4" lengthAdjust="spacing">{</text>
+<text x="282.4" y="492.0" fill="#9b8b6c" textLength="8.4" lengthAdjust="spacing">?</text>
+<text x="290.8" y="492.0" fill="#a18879" textLength="8.4" lengthAdjust="spacing">^</text>
+<text x="299.2" y="492.0" fill="#998a7b" textLength="8.4" lengthAdjust="spacing">^</text>
+<text x="307.6" y="492.0" fill="#a18879" textLength="8.4" lengthAdjust="spacing">I</text>
+<text x="316.0" y="492.0" fill="#9b8a79" textLength="8.4" lengthAdjust="spacing">t</text>
+<text x="324.4" y="492.0" fill="#786060" textLength="8.4" lengthAdjust="spacing">z</text>
+<text x="332.8" y="492.0" fill="#484848" textLength="84.0" lengthAdjust="spacing">qmmmmmmmmO</text>
+<text x="416.8" y="492.0" fill="#304848" textLength="8.4" lengthAdjust="spacing">d</text>
+<text x="425.2" y="492.0" fill="#606060" textLength="8.4" lengthAdjust="spacing">Y</text>
+<text x="433.6" y="492.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">)</text>
+<text x="22.0" y="511.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">f</text>
+<text x="30.4" y="511.0" fill="#181830" textLength="8.4" lengthAdjust="spacing">&amp;</text>
+<text x="38.8" y="511.0" fill="#484848" textLength="50.4" lengthAdjust="spacing">qpqqwq</text>
+<text x="89.2" y="511.0" fill="#786048" textLength="8.4" lengthAdjust="spacing">X</text>
+<text x="97.6" y="511.0" fill="#ac8672" textLength="8.4" lengthAdjust="spacing">_</text>
+<text x="106.0" y="511.0" fill="#a18879" textLength="8.4" lengthAdjust="spacing">~</text>
+<text x="114.4" y="511.0" fill="#907878" textLength="8.4" lengthAdjust="spacing">f</text>
+<text x="122.8" y="511.0" fill="#484848" textLength="25.2" lengthAdjust="spacing">mqd</text>
+<text x="148.0" y="511.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">j</text>
+<text x="156.4" y="511.0" fill="#8c8c8c" textLength="16.8" lengthAdjust="spacing">_}</text>
+<text x="173.2" y="511.0" fill="#9e8787" textLength="8.4" lengthAdjust="spacing">\</text>
+<text x="181.6" y="511.0" fill="#781830" textLength="8.4" lengthAdjust="spacing">b</text>
+<text x="190.0" y="511.0" fill="#9e8787" textLength="8.4" lengthAdjust="spacing">f</text>
+<text x="198.4" y="511.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">?</text>
+<text x="206.8" y="511.0" fill="#8d8d7f" textLength="8.4" lengthAdjust="spacing">I</text>
+<text x="215.2" y="511.0" fill="#938a8a" textLength="8.4" lengthAdjust="spacing">.</text>
+<text x="223.6" y="511.0" fill="#988989" textLength="8.4" lengthAdjust="spacing">?</text>
+<text x="232.0" y="511.0" fill="#9e8787" textLength="8.4" lengthAdjust="spacing">f</text>
+<text x="240.4" y="511.0" fill="#903030" textLength="8.4" lengthAdjust="spacing">O</text>
+<text x="248.8" y="511.0" fill="#9c8888" textLength="8.4" lengthAdjust="spacing">/</text>
+<text x="257.2" y="511.0" fill="#818f8f" textLength="8.4" lengthAdjust="spacing">t</text>
+<text x="265.6" y="511.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">_</text>
+<text x="274.0" y="511.0" fill="#ac8672" textLength="8.4" lengthAdjust="spacing">~</text>
+<text x="282.4" y="511.0" fill="#a18879" textLength="8.4" lengthAdjust="spacing">,</text>
+<text x="290.8" y="511.0" fill="#998a7b" textLength="25.2" lengthAdjust="spacing">":]</text>
+<text x="316.0" y="511.0" fill="#907878" textLength="8.4" lengthAdjust="spacing">f</text>
+<text x="324.4" y="511.0" fill="#304848" textLength="8.4" lengthAdjust="spacing">d</text>
+<text x="332.8" y="511.0" fill="#484848" textLength="92.4" lengthAdjust="spacing">ZmmmmmmmmmZ</text>
+<text x="425.2" y="511.0" fill="#304848" textLength="8.4" lengthAdjust="spacing">d</text>
+<text x="433.6" y="511.0" fill="#8c8c8c" textLength="8.4" lengthAdjust="spacing">t</text>
+<text x="475.6" y="74.0" fill="#9a6700" textLength="75.6" lengthAdjust="spacing">just@taco</text>
+<text x="551.2" y="74.0" fill="#d0d7de" textLength="537.6" lengthAdjust="spacing"> ---------------------------------------------------------------</text>
+<text x="475.6" y="112.0" fill="#9a6700" textLength="42.0" lengthAdjust="spacing">  OS:</text>
+<text x="517.6" y="112.0" fill="#afb8c1" textLength="487.2" lengthAdjust="spacing"> ........................................................ </text>
+<text x="1004.8" y="112.0" fill="#1f2328" textLength="84.0" lengthAdjust="spacing">Windows 11</text>
+<text x="475.6" y="131.0" fill="#9a6700" textLength="75.6" lengthAdjust="spacing">  Uptime:</text>
+<text x="551.2" y="131.0" fill="#afb8c1" textLength="319.2" lengthAdjust="spacing"> .................................... </text>
+<text x="870.4" y="131.0" fill="#1f2328" textLength="218.4" lengthAdjust="spacing">19 years, 5 months, 0 days</text>
+<text x="475.6" y="150.0" fill="#9a6700" textLength="58.8" lengthAdjust="spacing">  Host:</text>
+<text x="534.4" y="150.0" fill="#afb8c1" textLength="504.0" lengthAdjust="spacing"> .......................................................... </text>
+<text x="1038.4" y="150.0" fill="#1f2328" textLength="50.4" lengthAdjust="spacing">School</text>
+<text x="475.6" y="169.0" fill="#9a6700" textLength="75.6" lengthAdjust="spacing">  Kernel:</text>
+<text x="551.2" y="169.0" fill="#afb8c1" textLength="378.0" lengthAdjust="spacing"> ........................................... </text>
+<text x="929.2" y="169.0" fill="#1f2328" textLength="159.6" lengthAdjust="spacing">Student / Developer</text>
+<text x="475.6" y="188.0" fill="#9a6700" textLength="67.2" lengthAdjust="spacing">  Shell:</text>
+<text x="542.8" y="188.0" fill="#afb8c1" textLength="462.0" lengthAdjust="spacing"> ..................................................... </text>
+<text x="1004.8" y="188.0" fill="#1f2328" textLength="84.0" lengthAdjust="spacing">PowerShell</text>
+<text x="475.6" y="207.0" fill="#9a6700" textLength="50.4" lengthAdjust="spacing">  IDE:</text>
+<text x="526.0" y="207.0" fill="#afb8c1" textLength="378.0" lengthAdjust="spacing"> ........................................... </text>
+<text x="904.0" y="207.0" fill="#1f2328" textLength="184.8" lengthAdjust="spacing">VS Code, Visual Studio</text>
+<text x="475.6" y="245.0" fill="#9a6700" textLength="201.6" lengthAdjust="spacing">  Languages.Programming:</text>
+<text x="677.2" y="245.0" fill="#afb8c1" textLength="42.0" lengthAdjust="spacing"> ... </text>
+<text x="719.2" y="245.0" fill="#1f2328" textLength="369.6" lengthAdjust="spacing">Python, C#, C++, TypeScript, Lua, JavaScript</text>
+<text x="475.6" y="264.0" fill="#9a6700" textLength="159.6" lengthAdjust="spacing">  Languages.Markup:</text>
+<text x="635.2" y="264.0" fill="#afb8c1" textLength="235.2" lengthAdjust="spacing"> .......................... </text>
+<text x="870.4" y="264.0" fill="#1f2328" textLength="218.4" lengthAdjust="spacing">HTML, CSS, JSON, YAML, SQL</text>
+<text x="475.6" y="283.0" fill="#9a6700" textLength="159.6" lengthAdjust="spacing">  Languages.Spoken:</text>
+<text x="635.2" y="283.0" fill="#afb8c1" textLength="260.4" lengthAdjust="spacing"> ............................. </text>
+<text x="895.6" y="283.0" fill="#1f2328" textLength="193.2" lengthAdjust="spacing">English, Danish, German</text>
+<text x="475.6" y="321.0" fill="#9a6700" textLength="142.8" lengthAdjust="spacing">  Stack.Frontend:</text>
+<text x="618.4" y="321.0" fill="#afb8c1" textLength="126.0" lengthAdjust="spacing"> ............. </text>
+<text x="744.4" y="321.0" fill="#1f2328" textLength="344.4" lengthAdjust="spacing">React, Next.js, Vite, Tailwind, shadcn/ui</text>
+<text x="475.6" y="340.0" fill="#9a6700" textLength="134.4" lengthAdjust="spacing">  Stack.Backend:</text>
+<text x="610.0" y="340.0" fill="#afb8c1" textLength="252.0" lengthAdjust="spacing"> ............................ </text>
+<text x="862.0" y="340.0" fill="#1f2328" textLength="226.8" lengthAdjust="spacing">Node.js, PostgreSQL, Prisma</text>
+<text x="475.6" y="359.0" fill="#9a6700" textLength="117.6" lengthAdjust="spacing">  Stack.Tools:</text>
+<text x="593.2" y="359.0" fill="#afb8c1" textLength="277.2" lengthAdjust="spacing"> ............................... </text>
+<text x="870.4" y="359.0" fill="#1f2328" textLength="218.4" lengthAdjust="spacing">Git, Docker, Linux, Claude</text>
+<text x="475.6" y="397.0" fill="#9a6700" textLength="159.6" lengthAdjust="spacing">  Hobbies.Software:</text>
+<text x="635.2" y="397.0" fill="#afb8c1" textLength="268.8" lengthAdjust="spacing"> .............................. </text>
+<text x="904.0" y="397.0" fill="#1f2328" textLength="184.8" lengthAdjust="spacing">FiveM Modding, Tooling</text>
+<text x="475.6" y="416.0" fill="#9a6700" textLength="159.6" lengthAdjust="spacing">  Hobbies.Hardware:</text>
+<text x="635.2" y="416.0" fill="#afb8c1" textLength="327.6" lengthAdjust="spacing"> ..................................... </text>
+<text x="962.8" y="416.0" fill="#1f2328" textLength="126.0" lengthAdjust="spacing">Home Automation</text>
+<text x="475.6" y="454.0" fill="#57606a" textLength="84.0" lengthAdjust="spacing">- Contact </text>
+<text x="559.6" y="454.0" fill="#d0d7de" textLength="529.2" lengthAdjust="spacing">---------------------------------------------------------------</text>
+<text x="475.6" y="473.0" fill="#9a6700" textLength="67.2" lengthAdjust="spacing">  Email:</text>
+<text x="542.8" y="473.0" fill="#afb8c1" textLength="344.4" lengthAdjust="spacing"> ....................................... </text>
+<text x="887.2" y="473.0" fill="#1f2328" textLength="201.6" lengthAdjust="spacing">hermansenian01@gmail.com</text>
+<text x="475.6" y="492.0" fill="#9a6700" textLength="75.6" lengthAdjust="spacing">  GitHub:</text>
+<text x="551.2" y="492.0" fill="#afb8c1" textLength="462.0" lengthAdjust="spacing"> ..................................................... </text>
+<text x="1013.2" y="492.0" fill="#1f2328" textLength="75.6" lengthAdjust="spacing">Just-Taco</text>
+<text x="475.6" y="511.0" fill="#9a6700" textLength="84.0" lengthAdjust="spacing">  Discord:</text>
+<text x="559.6" y="511.0" fill="#afb8c1" textLength="445.2" lengthAdjust="spacing"> ................................................... </text>
+<text x="1004.8" y="511.0" fill="#1f2328" textLength="84.0" lengthAdjust="spacing">tacothedev</text>
+<text x="475.6" y="549.0" fill="#57606a" textLength="126.0" lengthAdjust="spacing">- GitHub Stats </text>
+<text x="601.6" y="549.0" fill="#d0d7de" textLength="487.2" lengthAdjust="spacing">----------------------------------------------------------</text>
+<text x="475.6" y="568.0" fill="#9a6700" textLength="67.2" lengthAdjust="spacing">  Repos:</text>
+<text x="542.8" y="568.0" fill="#afb8c1" textLength="428.4" lengthAdjust="spacing"> ................................................. </text>
+<text x="971.2" y="568.0" fill="#1f2328" textLength="8.4" lengthAdjust="spacing">3</text>
+<text x="979.6" y="568.0" fill="#afb8c1" textLength="100.8" lengthAdjust="spacing">  |  Stars: </text>
+<text x="1080.4" y="568.0" fill="#1f2328" textLength="8.4" lengthAdjust="spacing">0</text>
+<text x="475.6" y="587.0" fill="#9a6700" textLength="84.0" lengthAdjust="spacing">  Commits:</text>
+<text x="559.6" y="587.0" fill="#afb8c1" textLength="361.2" lengthAdjust="spacing"> ......................................... </text>
+<text x="920.8" y="587.0" fill="#1f2328" textLength="25.2" lengthAdjust="spacing">223</text>
+<text x="946.0" y="587.0" fill="#afb8c1" textLength="134.4" lengthAdjust="spacing">  |  Followers: </text>
+<text x="1080.4" y="587.0" fill="#1f2328" textLength="8.4" lengthAdjust="spacing">6</text>
+<text x="475.6" y="606.0" fill="#9a6700" textLength="134.4" lengthAdjust="spacing">  Lines of Code:</text>
+<text x="610.0" y="606.0" fill="#afb8c1" textLength="268.8" lengthAdjust="spacing"> .............................. </text>
+<text x="878.8" y="606.0" fill="#1f2328" textLength="42.0" lengthAdjust="spacing">2,498</text>
+<text x="920.8" y="606.0" fill="#afb8c1" textLength="33.6" lengthAdjust="spacing">  ( </text>
+<text x="954.4" y="606.0" fill="#1a7f37" textLength="58.8" lengthAdjust="spacing">2,980++</text>
+<text x="1013.2" y="606.0" fill="#afb8c1" textLength="16.8" lengthAdjust="spacing">, </text>
+<text x="1030.0" y="606.0" fill="#cf222e" textLength="42.0" lengthAdjust="spacing">482--</text>
+<text x="1072.0" y="606.0" fill="#afb8c1" textLength="16.8" lengthAdjust="spacing"> )</text>
+</svg>
