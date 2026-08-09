@@ -708,19 +708,19 @@
 <text x="601.6" y="549.0" fill="#d0d7de" textLength="487.2" lengthAdjust="spacing">----------------------------------------------------------</text>
 <text x="475.6" y="568.0" fill="#9a6700" textLength="67.2" lengthAdjust="spacing">  Repos:</text>
 <text x="542.8" y="568.0" fill="#afb8c1" textLength="428.4" lengthAdjust="spacing"> ................................................. </text>
-<text x="971.2" y="568.0" fill="#1f2328" textLength="8.4" lengthAdjust="spacing">3</text>
+<text x="971.2" y="568.0" fill="#1f2328" textLength="8.4" lengthAdjust="spacing">4</text>
 <text x="979.6" y="568.0" fill="#afb8c1" textLength="100.8" lengthAdjust="spacing">  |  Stars: </text>
 <text x="1080.4" y="568.0" fill="#1f2328" textLength="8.4" lengthAdjust="spacing">0</text>
 <text x="475.6" y="587.0" fill="#9a6700" textLength="84.0" lengthAdjust="spacing">  Commits:</text>
 <text x="559.6" y="587.0" fill="#afb8c1" textLength="361.2" lengthAdjust="spacing"> ......................................... </text>
-<text x="920.8" y="587.0" fill="#1f2328" textLength="25.2" lengthAdjust="spacing">223</text>
+<text x="920.8" y="587.0" fill="#1f2328" textLength="25.2" lengthAdjust="spacing">224</text>
 <text x="946.0" y="587.0" fill="#afb8c1" textLength="134.4" lengthAdjust="spacing">  |  Followers: </text>
 <text x="1080.4" y="587.0" fill="#1f2328" textLength="8.4" lengthAdjust="spacing">6</text>
 <text x="475.6" y="606.0" fill="#9a6700" textLength="134.4" lengthAdjust="spacing">  Lines of Code:</text>
 <text x="610.0" y="606.0" fill="#afb8c1" textLength="268.8" lengthAdjust="spacing"> .............................. </text>
-<text x="878.8" y="606.0" fill="#1f2328" textLength="42.0" lengthAdjust="spacing">2,498</text>
+<text x="878.8" y="606.0" fill="#1f2328" textLength="42.0" lengthAdjust="spacing">4,800</text>
 <text x="920.8" y="606.0" fill="#afb8c1" textLength="33.6" lengthAdjust="spacing">  ( </text>
-<text x="954.4" y="606.0" fill="#1a7f37" textLength="58.8" lengthAdjust="spacing">2,980++</text>
+<text x="954.4" y="606.0" fill="#1a7f37" textLength="58.8" lengthAdjust="spacing">5,282++</text>
 <text x="1013.2" y="606.0" fill="#afb8c1" textLength="16.8" lengthAdjust="spacing">, </text>
 <text x="1030.0" y="606.0" fill="#cf222e" textLength="42.0" lengthAdjust="spacing">482--</text>
 <text x="1072.0" y="606.0" fill="#afb8c1" textLength="16.8" lengthAdjust="spacing"> )</text>
