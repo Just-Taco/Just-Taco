@@ -35,7 +35,7 @@ API = "https://api.github.com"
 GRAPHQL = "https://api.github.com/graphql"
 
 
-def request(url, data=None, retries=3):
+def request(url, data=None, retries=6):
     headers = {
         "Accept": "application/vnd.github+json",
         "User-Agent": "just-taco-profile",
@@ -136,8 +136,15 @@ def collect_commits(created_at):
 
 
 def collect_lines(repos):
-    """Additions/deletions authored by USER across every repo."""
-    added = deleted = 0
+    """
+    Additions/deletions authored by USER across every repo.
+
+    Also reports how many repos we failed to read. GitHub computes the
+    contributor statistics lazily and answers 202 until the numbers are
+    ready, so a repo can drop out of a run through no fault of its own —
+    and silently undercounting would make the published total jitter.
+    """
+    added = deleted = skipped = 0
 
     for name in repos:
         try:
@@ -145,6 +152,12 @@ def collect_lines(repos):
                 f"{API}/repos/{USER}/{name}/stats/contributors")
         except urllib.error.HTTPError as err:
             print(f"  skip {name}: HTTP {err.code}", file=sys.stderr)
+            skipped += 1
+            continue
+
+        if contributors is None:
+            print(f"  skip {name}: stats still computing", file=sys.stderr)
+            skipped += 1
             continue
 
         for entry in contributors or []:
@@ -155,7 +168,7 @@ def collect_lines(repos):
                 added += week.get("a", 0)
                 deleted += week.get("d", 0)
 
-    return added, deleted
+    return added, deleted, skipped
 
 
 def main():
@@ -169,8 +182,21 @@ def main():
     commits = collect_commits(created)
     print(f"{commits} commits")
 
-    added, deleted = collect_lines(repos)
-    print(f"{added} added, {deleted} deleted")
+    added, deleted, skipped = collect_lines(repos)
+    print(f"{added} added, {deleted} deleted ({skipped} repos unavailable)")
+
+    # An incomplete scan must never publish a smaller total than we already
+    # have, or the line count would visibly bounce around between runs.
+    if skipped:
+        try:
+            with open(OUT, encoding="utf-8") as fh:
+                previous = json.load(fh)
+            if previous.get("loc_added", 0) > added:
+                print("keeping previous line counts; this scan was partial")
+                added = previous["loc_added"]
+                deleted = previous["loc_deleted"]
+        except (OSError, ValueError, KeyError):
+            pass
 
     stats = {
         "repos": repo_count,
