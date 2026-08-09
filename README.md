@@ -28,8 +28,11 @@
 - 💬 Ask me about — TypeScript, C#, Lua, FiveM modding, self-hosting
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Just-Taco&show_icons=true&theme=github_dark&hide_border=true" height="165" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Just-Taco&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top languages">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/languages-light.svg">
+    <img alt="Top languages" src="assets/languages-dark.svg" width="480">
+  </picture>
 </p>
 
 <sub align="center">

@@ -347,15 +347,102 @@ def build_svg(theme_name):
     return "\n".join(out)
 
 
+# --------------------------------------------------------------------------
+# Top-languages card
+# --------------------------------------------------------------------------
+
+LANG_W = 480          # card width in pixels
+LANG_COLS = 2         # legend columns
+BAR_H = 10
+
+
+def languages():
+    """The language breakdown cached by fetch_stats.py."""
+    path = os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                        "assets", "stats.json")
+    try:
+        with open(path, encoding="utf-8") as fh:
+            return json.load(fh).get("languages") or []
+    except (OSError, ValueError):
+        return []
+
+
+def build_languages_svg(theme_name):
+    """
+    A self-contained replacement for the github-readme-stats language card.
+
+    The public instance of that service answers 503 often enough that the
+    image silently breaks, so this renders the same information from the
+    numbers we already fetch.
+    """
+    theme = THEMES[theme_name]
+    langs = languages()
+    total = sum(l["size"] for l in langs) or 1
+
+    rows = -(-len(langs) // LANG_COLS)                  # ceiling division
+    pad, title_h, row_h = 20, 34, 22
+    height = pad * 2 + title_h + BAR_H + 16 + rows * row_h
+    inner = LANG_W - pad * 2
+
+    out = [
+        '<?xml version="1.0" encoding="UTF-8"?>',
+        f'<svg xmlns="http://www.w3.org/2000/svg" width="{LANG_W}" '
+        f'height="{height}" viewBox="0 0 {LANG_W} {height}" '
+        f'font-family="{FONT_STACK}" font-size="12" role="img" '
+        f'aria-label="Top languages">',
+        f'<rect x="0.5" y="0.5" width="{LANG_W - 1}" height="{height - 1}" '
+        f'rx="10" fill="{theme["bg"]}" stroke="{theme["border"]}"/>',
+        f'<text x="{pad}" y="{pad + 14}" fill="{theme["header"]}" '
+        f'font-size="14">Top Languages</text>',
+    ]
+
+    if not langs:
+        out.append(f'<text x="{pad}" y="{pad + title_h + 14}" '
+                   f'fill="{theme["dim"]}">no data yet</text></svg>')
+        return "\n".join(out)
+
+    # Stacked bar, clipped so the ends stay rounded.
+    bar_y = pad + title_h
+    out.append(f'<clipPath id="bar"><rect x="{pad}" y="{bar_y}" '
+               f'width="{inner}" height="{BAR_H}" rx="{BAR_H / 2}"/></clipPath>'
+               f'<g clip-path="url(#bar)">')
+    x = pad
+    for lang in langs:
+        w = inner * lang["size"] / total
+        out.append(f'<rect x="{x:.1f}" y="{bar_y}" width="{w:.1f}" '
+                   f'height="{BAR_H}" fill="{lang["color"]}"/>')
+        x += w
+    out.append('</g>')
+
+    # Legend.
+    col_w = inner / LANG_COLS
+    for i, lang in enumerate(langs):
+        cx = pad + (i // rows) * col_w
+        cy = bar_y + BAR_H + 28 + (i % rows) * row_h
+        share = 100 * lang["size"] / total
+        out.append(f'<circle cx="{cx + 5:.1f}" cy="{cy - 4:.1f}" r="5" '
+                   f'fill="{lang["color"]}"/>')
+        out.append(f'<text x="{cx + 18:.1f}" y="{cy:.1f}" '
+                   f'fill="{theme["value"]}">{esc(lang["name"])}</text>')
+        out.append(f'<text x="{cx + col_w - 14:.1f}" y="{cy:.1f}" '
+                   f'fill="{theme["dim"]}" text-anchor="end">'
+                   f'{share:.1f}%</text>')
+
+    out.append("</svg>")
+    return "\n".join(out)
+
+
 def main():
     here = os.path.dirname(os.path.abspath(__file__))
     dest = os.path.join(here, "assets")
     os.makedirs(dest, exist_ok=True)
     for name in THEMES:
-        path = os.path.join(dest, f"neofetch-{name}.svg")
-        with open(path, "w", encoding="utf-8") as fh:
-            fh.write(build_svg(name))
-        print("wrote", path)
+        for prefix, builder in (("neofetch", build_svg),
+                                ("languages", build_languages_svg)):
+            path = os.path.join(dest, f"{prefix}-{name}.svg")
+            with open(path, "w", encoding="utf-8") as fh:
+                fh.write(builder(name))
+            print("wrote", path)
 
 
 if __name__ == "__main__":

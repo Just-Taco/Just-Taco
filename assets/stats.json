@@ -3,8 +3,35 @@
   "stars": 0,
   "commits": 225,
   "followers": 6,
-  "loc_added": 2980,
-  "loc_deleted": 482,
-  "loc_total": 2498,
+  "loc_added": 5314,
+  "loc_deleted": 488,
+  "loc_total": 4826,
+  "languages": [
+    {
+      "name": "Python",
+      "size": 27891,
+      "color": "#3572A5"
+    },
+    {
+      "name": "TypeScript",
+      "size": 15956,
+      "color": "#3178c6"
+    },
+    {
+      "name": "CSS",
+      "size": 4681,
+      "color": "#663399"
+    },
+    {
+      "name": "JavaScript",
+      "size": 1934,
+      "color": "#f1e05a"
+    },
+    {
+      "name": "HTML",
+      "size": 1388,
+      "color": "#e34c26"
+    }
+  ],
   "updated": "2026-08-09"
 }

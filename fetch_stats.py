@@ -28,6 +28,12 @@ TOKEN = os.environ.get("GH_PAT") or os.environ.get("GITHUB_TOKEN") or ""
 # repos into the totals — the counts are aggregate, no names are published,
 # but it does reveal roughly how much private work there is.
 PRIVACY = None if os.environ.get("GH_INCLUDE_PRIVATE") else "PUBLIC"
+
+# Languages to leave out of the breakdown — vendored assets and generated
+# files otherwise drown out the code you actually wrote.
+EXCLUDE_LANGUAGES = {"Roff", "Makefile", "Batchfile", "Dockerfile"}
+
+TOP_LANGUAGES = 8
 OUT = os.path.join(os.path.dirname(os.path.abspath(__file__)),
                    "assets", "stats.json")
 
@@ -77,7 +83,13 @@ query($login: String!, $cursor: String, $privacy: RepositoryPrivacy) {
                  orderBy: {field: PUSHED_AT, direction: DESC}) {
       totalCount
       pageInfo { hasNextPage endCursor }
-      nodes { name stargazerCount }
+      nodes {
+        name
+        stargazerCount
+        languages(first: 12, orderBy: {field: SIZE, direction: DESC}) {
+          edges { size node { name color } }
+        }
+      }
     }
   }
 }
@@ -96,9 +108,10 @@ query($login: String!, $from: DateTime!, $to: DateTime!) {
 
 
 def collect_repos():
-    """All non-fork public repos, plus the star total and follower count."""
+    """All non-fork repos, plus stars, followers and the language mix."""
     repos, stars, cursor = [], 0, None
     created, followers, total = None, 0, 0
+    sizes, colours = {}, {}
 
     while True:
         user = graphql(PROFILE_QUERY, login=USER, cursor=cursor,
@@ -112,9 +125,22 @@ def collect_repos():
             repos.append(node["name"])
             stars += node["stargazerCount"]
 
+            for edge in node["languages"]["edges"]:
+                name = edge["node"]["name"]
+                if name in EXCLUDE_LANGUAGES:
+                    continue
+                sizes[name] = sizes.get(name, 0) + edge["size"]
+                colours[name] = edge["node"]["color"] or "#8b949e"
+
         if not block["pageInfo"]["hasNextPage"]:
-            return repos, stars, followers, total, created
+            break
         cursor = block["pageInfo"]["endCursor"]
+
+    ranked = sorted(sizes.items(), key=lambda kv: kv[1], reverse=True)
+    languages = [{"name": name, "size": size, "color": colours[name]}
+                 for name, size in ranked[:TOP_LANGUAGES]]
+
+    return repos, stars, followers, total, created, languages
 
 
 def collect_commits(created_at):
@@ -176,8 +202,9 @@ def main():
         print("No GH_PAT / GITHUB_TOKEN set — keeping cached stats.")
         return 0
 
-    repos, stars, followers, repo_count, created = collect_repos()
+    repos, stars, followers, repo_count, created, languages = collect_repos()
     print(f"{repo_count} repos, {stars} stars, {followers} followers")
+    print("languages: " + ", ".join(l["name"] for l in languages))
 
     commits = collect_commits(created)
     print(f"{commits} commits")
@@ -206,6 +233,7 @@ def main():
         "loc_added": added,
         "loc_deleted": deleted,
         "loc_total": added - deleted,
+        "languages": languages,
         "updated": time.strftime("%Y-%m-%d", time.gmtime()),
     }
 
