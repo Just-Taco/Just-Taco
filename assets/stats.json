@@ -1,11 +1,11 @@
 {
-  "repos": 4,
+  "repos": 2,
   "stars": 0,
-  "commits": 266,
+  "commits": 181,
   "followers": 6,
-  "loc_added": 5532,
-  "loc_deleted": 507,
-  "loc_total": 5025,
+  "loc_added": 5025,
+  "loc_deleted": 252,
+  "loc_total": 4773,
   "languages": [
     {
       "name": "Python",
@@ -24,14 +24,14 @@
     },
     {
       "name": "JavaScript",
-      "size": 1934,
+      "size": 616,
       "color": "#f1e05a"
     },
     {
       "name": "HTML",
-      "size": 1388,
+      "size": 355,
       "color": "#e34c26"
     }
   ],
-  "updated": "2026-08-19"
+  "updated": "2026-08-20"
 }
