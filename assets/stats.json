@@ -1,16 +1,31 @@
 {
-  "repos": 3,
+  "repos": 4,
   "stars": 0,
-  "commits": 255,
+  "commits": 265,
   "followers": 6,
-  "loc_added": 6438,
+  "loc_added": 17352,
   "loc_deleted": 572,
-  "loc_total": 5866,
+  "loc_total": 16780,
   "languages": [
+    {
+      "name": "Rust",
+      "size": 56437,
+      "color": "#dea584"
+    },
+    {
+      "name": "Svelte",
+      "size": 35972,
+      "color": "#ff3e00"
+    },
     {
       "name": "Python",
       "size": 32276,
       "color": "#3572A5"
+    },
+    {
+      "name": "TypeScript",
+      "size": 26028,
+      "color": "#3178c6"
     },
     {
       "name": "C#",
@@ -18,25 +33,20 @@
       "color": "#7355dd"
     },
     {
-      "name": "TypeScript",
-      "size": 15956,
-      "color": "#3178c6"
-    },
-    {
       "name": "CSS",
-      "size": 4681,
+      "size": 14122,
       "color": "#663399"
     },
     {
       "name": "JavaScript",
-      "size": 616,
+      "size": 728,
       "color": "#f1e05a"
     },
     {
       "name": "HTML",
-      "size": 355,
+      "size": 646,
       "color": "#e34c26"
     }
   ],
-  "updated": "2026-08-30"
+  "updated": "2026-08-31"
 }
