@@ -1,12 +1,17 @@
 {
-  "repos": 4,
+  "repos": 5,
   "stars": 0,
-  "commits": 265,
+  "commits": 267,
   "followers": 6,
-  "loc_added": 17352,
+  "loc_added": 20255,
   "loc_deleted": 572,
-  "loc_total": 16780,
+  "loc_total": 19683,
   "languages": [
+    {
+      "name": "C#",
+      "size": 104137,
+      "color": "#7355dd"
+    },
     {
       "name": "Rust",
       "size": 56437,
@@ -19,7 +24,7 @@
     },
     {
       "name": "Python",
-      "size": 32276,
+      "size": 34357,
       "color": "#3572A5"
     },
     {
@@ -28,25 +33,20 @@
       "color": "#3178c6"
     },
     {
-      "name": "C#",
-      "size": 17904,
-      "color": "#7355dd"
-    },
-    {
       "name": "CSS",
       "size": 14122,
       "color": "#663399"
     },
     {
+      "name": "PowerShell",
+      "size": 1379,
+      "color": "#012456"
+    },
+    {
       "name": "JavaScript",
       "size": 728,
       "color": "#f1e05a"
-    },
-    {
-      "name": "HTML",
-      "size": 646,
-      "color": "#e34c26"
     }
   ],
-  "updated": "2026-08-31"
+  "updated": "2026-09-01"
 }
